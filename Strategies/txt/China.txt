@@ -1,0 +1,640 @@
+China Science & Technology
+
+Ta » TANTS BN
+(i 4 4
+4 7 PP YF 4k:
+: es : No.17
+Department of Intemational Cooperation Ministy of Science and Technology(MOST), PRChina Sontember.1S 2017
+
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council : "
+
+China’s Strengths Creates Innovation Miracles
+
+> Sponsor: Department of InternationalGe@~peration,Ministry of Science and
+Technology(MOST ),, Raezaine F
+
+Organizer: China Association&emmaternational Science and Technology Goeoperation
+Add: Room 1059 , @jfitegsimiding , 11 B Fuxing Road , Beijing , P.R. & 100038
+
+E-mail: caisi¢(@yvanete
+
+i
+
+‘eo!
+St,
+
+Over 60 years of progress has witnessed booming of new theories and new technologies including
+mobile Internet, big data, super computing, sensor network and brain science. Driven both by the new
+theories and technologies and strong demand for socioeconomic development, artificial intelligence (Al) has
+developed rapidly. A set of new features such as deep learning, cross-border integration, human-computer
+cooperation, group intelligence sharing and free manoeuvre have emerged. The general advancement of
+Al-related disciplines, theoretical modeling, technological innovation and software and hardware update
+is triggering a chain of breakthroughs, boosting transformation from digitization and Internetization to
+intelligentization in all aspects of social and economic sphere. In light of new circumstances and demands,
+we need to take proactive approaches to meet changes, seize the historical opportunity of Al development
+and take stock of the current situation and make proactive plans to serve socioeconomic development
+and national security and to lead leapfrog advancement of national competitiveness. To this end, the State
+Council has issued Next Generation Artificial Intelligence Development Plan. This is a major event in the
+history of science and technology (S&T) advancement in China and the first systemic and strategic plan in
+Al sphere. It mainly plans for the overall thinking, strategic goals, main tasks and supporting measures for Al
+development before 2030.
+
+Artificial intelligence (Al) has become new focus of
+
+. international economy, new engine of economic development and
+
+‘ new opportunity of social development. To seize the major strategic
+opportunity brought by Al development, build up our Al first mover
+advantage and speed up building innovation-driven and globally _
+advanced science and technology country, we formulated this plan
+
+according to deployment requirements of the Central Government
+and the State Council.
+
+Next Generation Artificial —" Developme
+Issued by State Council ;
+
+As a core driving force for next round of industrial transformation, artificial intelligence will further release
+the huge energy accumulated over the previous technological and industrial transformation, create new
+engine for restructuring production, distribution, exchanges and consumption, build up new demand for
+intelligentization in both macro and micro sense, create new technology, products, industries, dynamics and
+models, trigger major transformation of economic structure, deeply alter human life and thinking and realize
+advancement of social productivity.
+
+Artificial intelligence (Al) brings new opportunities for social development. China is now at a critical
+juncture of building a relatively well-off society in an all-round way while it is facing severe challenges
+like aging population and resource and environment restraint. Al boasts broad applications in education,
+medical care, provision for the aged, environmental protection, urban operation and judicial service, which
+will markedly improve targeted public service and people’s livelihood. Al technology is able to accurately
+perceive, predict and offer early warning for major circumstances in infrastructure and social security, timely
+seize group cognition and psychological changes so that proactive measures are taken to improve social
+management capacity, which plays an irreplaceable role in stabilizing the society.
+
+oc ih *f
+
+Lead by Science Systemic Open Source
+
+Drive by Market
+
+and Technology —_Layout and Openness
+
+China boasts sound foundation for developing Al. The Chinese government has planned for major
+national R&D projects including Al projects. It has issued a three-year implementation plan for Internet+
+Al, putting forward a series of measures for technology R&D, application and industrial development. After
+years of efforts, we have made major progress in Al area, ranking the second in the number of published
+technology papers and patents and making important breakthroughs in the core technology of some areas.
+We lead the world in voice and visual recognition, have capacity for rapid development in adaptive self-
+learning, intuitive awareness, comprehensive reasoning, hybrid intelligence and group intelligence and have
+entered practical application of Chinese information processing, intelligence monitoring, biometric recognition,
+industrial robots, service robots and unmanned driving. Al innovation and entrepreneurship are growing
+rapidly with a group of leading businesses gaining wide international awareness and recognition. Growing
+technological capacity, massive data resource, huge application demand and open market environment have
+created a unique advantage for China to develop Al.
+— Generation Artificial inteligence pets usisuit Pam
+
+Strategic Goa
+
+Step 1 By 2020 overall Al technology and application reach
+globally advanced level. Al industry becomes new economic
+growth point. Al technological application becomes new
+approach to improving people’s livelihood to support our
+goal in becoming an innovation-driven country and building a
+moderately prosperous society in all respects.
+
+Step 2. By 2025 Al basic theory makes breakthroughs. Al
+technology and application reach globally advanced level.
+
+ll Al becomes a major driving force for industrial upgrade and
+economic restructuring. Building an intelligence society
+makes progress.
+
+Step 3. By 2030 Al theory, technology and application
+reach globally advanced level. China becomes global Al
+innovation center. Intelligence economy and society make
+marked progress, laying a solid foundation for becoming an
+innovation-driven and economically powerful country.
+
+Uncertainty in Al development brings new challenges. Al is a revolutionary and widely influential
+technology which may bring about issues like changing employment structure, impacting law and social
+ethnics, infringing personal privacy and challenging international relations. It will deeply influence government
+management, economic security, social stability and global governance. While robustly developing Al, we
+must highlight the potential safety risks, enhance early prevention and guidance, reduce risks to a maximum
+degree and ensure the safe, reliable and manageable development of Al.
+
+Major Task
+
+Set up a system Stick to Three in One
+» Open and coordinated Al science R&D, product application and
+
+and technology innovation system __ industrial cultivation
+
+Seize double nature Enhance Four Supports
+Highly integrate technical nature Support technology, economy, social
+| and social nature development and national security
+
+LLL LLL i =
+
+We must take into account the overall situation of national development, grasp global Al development
+trend, find the breaking point and priority, enhance basic capacity for technological innovation, expand
+the depth and scope for application of major areas and improve intelligence level of social and economic
+development and national defense application.
+
+1. Set up open and coordinated Al science and
+technology innovation system
+
+B Set up basic theory system of next generation Al
+
+1) big data intelligence theory
+2) cross-media perceptual computing theory
+3) hybrid augmented intelligence theory
+
+(1)
+
+(2)
+
+(3)
+
+(4) group intelligence basic theory
+
+(5) coordinated control and decision-making theory
+(6) advanced machine learning theory
+
+(7) brain-like intelligence computing theory
+
+(8)
+
+8) quantum intelligence computing theory
+
+#* Set up next generation key Al generic technology system
+
+(1) knowledge computing engine and knowledge service technology
+(2) cross-media analytic reasoning technology
+
+(3) key group intelligence technology
+
+(4) new structure and new technology of hybrid augmented intelligence
+(5) autonomous man-less system technology
+
+(6) virtual reality intelligence modeling technology
+
+(7) intelligence computing chip and system
+
+(8) natural language processing technology
+
+@* SY
+@
+
+i
+— ad
+
+oe Coordinate the set-up of Al innovation platform
+
+(1) basic platform for Al open source software and hardware
+2) group intelligence service platform
+3) hybrid augmented intelligence support platform
+
+)
+
+)
+
+‘4) independent man-less system support platform
+5) Al basic data and safety assessment platform
+
+(
+(
+(
+(
+
+= Accelerate the cultivation of high-level Al talents
+
+(1) cultivate high-level Al innovation talents and team
+(2) Make more efforts to bring in high-level Al talents
+(3) Set up Al discipline
+
+2. Cultivate high-end and highly efficient
+intelligent economy
+
+wa Vigorously develop Al emerging industry
+
+Intelligent software and hardware, intelligent robot, intelligent
+launch vehicle, virtual reality and augmented reality, intelligent terminal,
+Internet of Things basic device.
+
+Accelerate industrial intelligent upgrading
+
+Intelligent manufacturing, intelligent agriculture, intelligent logistics,
+intelligent finance, intelligent business, intelligent house.
+
+@ Vigorously develop Al enterprise
+
+Promote large-scale intelligent upgrading of business, promote
+Al application factory and cultivate speedily leading businesses of Al
+industry.
+
+[& = Set up Al innovation highland
+
+Carry out demonstration for Al application, build national Al
+industrial park and national maker space for Al.
+
+~ 3. Build safe and convenient intelligent society —
+
+69 Develop convenient and efficient intelligent service
+
+Intelligent education, intelligent medical care, intelligent health and aged care.
+
+® Promote intelligent social governance
+
+Intelligent business, intelligent court, intelligent city, intelligent transportation,
+intelligent environmental protection.
+
+Q@ Use Al to improve capacity to protect public security
+"Promote mutual trust and sharing in society
+
+4. Enhance Al civil-military integration
+
+Deploy next generation Al basic theory and key generic
+technology R&D oriented toward civil-military sharing, set
+up regular communication and coordination mechanism like «
+higher education and research institutions, companies and
+military institutes.
+
+e 5. Build safe and efficient Al infrastructure system
+
+Upgrade network infrastructure, coordinate and use big
+
+data infrastructure, build efficient computing infrastructure
+°
+and distributed and efficient energy Internet.
+
+Next Generation Artificial —" Developme
+Issued by State Council ;
+
+6. Make forward-looking plans for major science and
+technology programs of next generation Al
+
+“1{+N’”Al program group with major S&T
+programs of next generation Al as the core and
+supported by existing R&D.
+
+refers to major S&T programs of next
+generation Al
+
+refers to major national special S&T
+programs, S&T innovation 2030 and National
+Key R&D program
+
+“1” refers to major technology projects of next generation Al. It focuses on basic theory and forward-
+thinking planning of key generic technology, including research on theories related to big data intelligence,
+cross-media perceptual computing, hybrid augmented intelligence, group intelligence, coordinated control
+and decision-making. And it focuses on studying knowledge computing engine and knowledge service
+technology, cross-media analytic reasoning technology, key group intelligence technology, new structure and
+new technology of hybrid augmented intelligence, autonomous control technology, basic theory and generic
+technology of open-sourced Al sharing. We continuously predict and analyze Al development and study the
+socioeconomic influence and solutions provided by strengthening Al.
+
+“N” refers to Al R&D projects deployed by related national plans. Its focus is to enhance its link with
+major technology project of next generation Al and to coordinate theory research, technology breakthrough
+and product research application of Al. In terms of its link with major national special projects of technology,
+it supports software and hardware of Al development in the special projects in core electronic devices, high-
+end universal chips, basic software and integrated circuit equipment. It enhances its mutual support with
+other “technology innovation 2030--major projects”, speeds up research on brain science and brain-like
+computing, quantum information and quantum computing, intelligent manufacturing and robots and big data,
+providing support for technological breakthroughs in Al. National key R&D Projects continue to promote major
+special projects like high-performance computing and provide more support for related technological R&D
+and application of Al. National Natural Science Foundation of China (NSFC) provides continuous support for
+cutting-edge interdisciplinary research and free exploration. In the deployment of major projects like deep
+underwater space station and health security and national key R&D plan for major special projects, we will
+enhance application demonstration of Al technology. Other Al related basic theory and generic technology
+research findings supported by various technology plans should be shared openly.
+iba Generdion Arial Intligence pevale pian Hy
+
+—. Resource distribution
+
+Fully capitalize on existing resources like capital and
+base, holistically allocate domestic and international innovation
+resource, prioritize the set-up of Al innovation base, give
+play to the guiding role played by fiscal revenue and policy
+incentives and dominant role played by market to distribute
+resource, build a new pattern supported by fiscal, financial and
+social capital.
+
+.
+
+Supporting measures
+
+e 1. Formulate laws and regulations and ethical norms
+e related to Al development.
+2. Improve major policies for Al development.
+< 3. Set up Al technology standard and intellectual
+property system.
+*% 4. Set up Al safety regulation and assessment
+system.
+5. Enhance Al labor force training.
+6. Carry out extensive activities to
+
+® popularize Al.
+
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council #> —
+
+1. Formulate laws and regulations and ethical norms related to promoting Al
+
+development.
+
+We need to carry out research on legal issues of Al application-related civil and criminal liability
+confirmation, privacy and intellectual property protection and safe use of information, set up traceability and
+accountability system and identify Al legal entity and related rights, obligations and responsibilities. We will
+carry out Al behavior science and ethics research, set up multilevel assessment structure for ethics and
+morals and ethic framework for human-machine coordination, formulate moral standard and behavior code
+for Al product research designers, enhance assessment for potential Al risks and benefits and build up
+emergency solutions for complicated Al scenarios, participate in Al global governance, strengthen research
+into major international common problems like robot alienation and safety regulation, further international
+cooperation in Al laws and regulations and international rules and jointly meet global challenges.
+
+2. Improve major policies for Al development.
+
+We need to put in place financial and tax preferential policies for small and medium sized and start-up
+enterprises, support Al business development by policies like tax breaks for hi-tech business and weighted
+deduction for R&D, improve data sharing and protection policies, carry out pilot program for public statistics
+sharing, support general public and business to fully capitalize on the commercial value of public data,
+promote innovative Al application, improve policy system that is adjusted to Al-related education, medical
+care, insurance and social assistance and effectively handle social issues brought by Al.
+
+3. Set up Al technology standard and intellectual property system.
+
+We need to enhance research into Al standard framework, stick to principles of safety, usability,
+interoperability and traceability, progressively set up and improve Al generics, connectivity, industrial
+application, network safety and privacy protection standards, encourage Al business to participate in or
+formulate international standards, lead overseas Al products and service application with technological
+standard, enhance IPR protection in Al area, set up Al public patent pool and promote the use and
+dissemination of Al.
+
+4. Set up Al safety regulation and assessment system.
+
+We need to enhance research and assessment of Al influence on national security and confidentiality,
+improve safety prevention and protection system featuring human, technology, product and management,
+build up warning mechanism for Al safety monitoring, enhance research into prediction, assessment and
+trace of Al technology development, stick to problem-oriented approach and grasp technological and
+industrial development trend, pay attention to risk assessment and prevention, strengthen forward-thinking
+prevention and guidance, set up open and transparent Al monitoring system, carry out two-level monitoring
+structure with accountability and monitoring for application, promote Al industrial and business discipline,
+enhance management and punish data abuse, privacy infringement and unethical behavior.
+Next Generation Artificial Intelligence Development P,
+Issued by State Council
+
+We need to speed up research into employment structure and mode change brought by Al and new type
+of employment and work skills required, set up lifelong learning and employment training system demanded
+by intelligence economy and society, support higher education institutions, vocational schools and social
+training institutions to carry out Al skills training, dramatically improve employees’ skill set to meet demands
+of highly-skilled and high quality work brought by Al.
+
+We need to support various forms of activities to popularize Al, encourage science and technology
+workers to popularize Al, improve general public’s awareness and application of Al, carry out Al education
+programs, set up Al-related courses in elementary and middle schools, disseminate progressively
+programming education, encourage social force to participate in developing and disseminating educational
+programming software, open Al R&D platform, production facilities or exhibitions to the general public,
+encourage Al competition, encourage various forms of creation to popularize Al and encourage scientists to
+take part in popularizing Al.
+
+Organization and implementation
+
+-® 1.Organization and leadership *——
+
+According to the deployment of the Central Government and
+the State Council and coordinated by Steering Group for National
+Science and Technology System Reform and Innovation System
+Building, we examine and deliberate on major tasks, policies, issues
+and work arrangement, promote Al-related laws and regulations,
+guide, coordinate and supervise related departments to make
+related plans. Supported by Inter-ministerial Joint Conference on
+National Science and Technology Program (special program and
+fund etc.) Management, Ministry of Science and Technology (MOST)
+and related departments will carry out major science and technology
+programs of next generation Al, enhance its link with other plans
+and tasks, set up Al Plan Promotion Office in MOST to facilitate
+the implementation, set up Al Strategy Consultancy Committee to
+study forward-looking and strategic issues and assess major Al
+policies, facilitate Al think tank building, support various think tanks
+to study major Al issues and provide strong intellectual support for Al
+development.
+
+—* 2.Guarantee of implementation * Ss
+
+We need to disintegrate plans and tasks, clarify responsible
+departments and work schedule, formulate annual and periodical |
+implementation plan and enhance dynamic adjustment of plans and
+programs. |
+
+—* 3.Pilot Demonstration *—~~
+
+We need to disintegrate plans and tasks, clarify responsible
+departments and work schedule, formulate annual and periodical
+implementation plan and enhance dynamic adjustment of plans and
+
+__ programs.
+
+« 4.Public Opinion Guidance « _—
+
+We need to fully capitalize on various traditional and emerging
+media, timely publicize Al progress and achievement, make sound
+Al development a social consensus, mobilize social initiative to
+participate in and support Al development and timely guide public
+opinion to meet social, ethical and legal challenges brought by Al
+development.
+
+(Source: website of the State Council, July 20, 2017)
+Ghina’s Strengths Greates Innovation Miracles.
+
+—
+
+For the past 5 years, China has achieved all-around scientific
+and technological breakthroughs, standing on the summit of cutting-
+edge technologies. For the past 5 years, China has transformed from
+relying on resource and labor force dividend to “Lead by Innovation”
+mode, becoming increasingly important in global innovation pattern.
+
+China’s Stregnths: “5 Golden Years”
+
+r Innovati i
+—s Creates ovation Miracles
+
+China, the largest developing country in the world, places great
+emphasis on science and technology innovation, sounding the horn of
+building a global science and technology power.
+
+Over the past year alone, “transcript” of innovation in China is
+e great enough for national pride and global applause:
+
+L—_—__™ADADADD_D—__SS=EEEESs
+The first independently-manufactured aircraft carrier
+makes its debut
+New type 10,000-ton destroyer enters the water
+First self-developed bullet train Fuxing makes its debut
+Quantum Space Satellite Mozi shines in outer space
+Extracted combustible ice for 60 days, setting two
+world records of longest extract time and largest gas
+volume.
+Ghina’s Strengths Greates Innovation Miracles
+
+2017 World Competitiveness Yearbook
+fA, Report shows: published by Swiss-based International
+Institute for Management Development
+
+In ranking of the most competitive global economies, Chinese
+mainland has elevated to No.18 and ranked the 2” in global Economic
+Performance.
+
+The past 5 years has witnessed historical leap in China’s dream
+to “Overtake the World” and become a powerhouse:
+
+Mileage of high-speed trains in China exceeded 20,000
+Se - the longest in the world.
+
+China has made increasing breakthroughs in cutting-
+edge areas with S&T achievement that caught the world’s
+attention.
+
+The number of Fortune Global 500 Chinese companies
+has been increasing. China’s international competitiveness
+has ranked among the top of all developing countries.
+
+cA Report shows: — Giopal Innovation Index 2017 Report
+
+China has climbed from No.25 last year to No.22 this year and
+was the only medium income country that entered top 25.
+
+China power: independent innovation reshapes
+
+—_ world science and technology pattern
+
+How far is 380,000 km? On 14" December 2013, Yutu lunar
+rover left its footprint on the moon with Chinese flag.
+
+From high-speed rail
+to super computing
+
+From space flight
+to aviation
+
+Core technology cannot be bought. Only by innovation can we
+master our own fate.
+
+@ Why is China’s innovation rise possible?
+
+(Talents breed the soil for innovation and are our inexhaustible rich ore. |
+
+oO 170 million
+@a@ 81 million science workers beaan rich educated or skilled talents
+
+Sustainable input is like flowing water, irrigating prosperous
+China’s Innovation Era. J
+
+In 2016 the national technical contract transaction volume
+
+increased by 15.97%
+year on year, exceedingone trillion yuan for the first time.
+
+national technical contract transaction volume
+
+The national R&D expenditure reached 1,544 billion yuan ,
+accounting for 2.1% of GDP, among which 78% came from
+
+businesses.
+
+National Science Foundation (NSF) says
+“China is undoubtedly the 2" largest R&D country in the world.
+China’s R&D expenditure is approaching that of the whole EU.”
+Good policy is like sunshine. Furthered S&T reform solves
+innovation formula.
+
+To consolidate national core competitiveness, important
+plans like National Guideline for Innovation-Driven
+Development Strategy and National Science and Technology
+
+QO Innovation Plan for 13" Five-Year Plan Period have been
+issued to enhance S&T supply, consolidate its foundation,
+boost strategy orientation, deepen innovation reform and
+clarify positioning of S&T innovation.
+
+Streamline administration and increase innovation and
+
+business, carry out distribution policy that is knowledge-
+and value-oriented to mobilize mass innovation and
+entrepreneurship.
+
+Innovation Confidence: look forward to reaching
+innovation summit
+
+In 2018, Beidou Navigation Satellite System will
+cover major countries along the Belt and Road.
+
+China, boasting splendid S&T history, is producing
+more intellectual achievements for the world.
+
+@ Climb to science and technology summit with steadfast steps of
+Chinese characteristics.
+
+>> Asymmetrical overtaking
+
+I 1
+Quantum communication and quantum computer, brain science
+
+| and brain-like research, deep underwater space station, space
+| ground integration...
+
+On the journey to build a global science and technology
+| power, China will create a tiered systematic pattern with major S&T |
+| programs for 2030 and major national S&T special projects already
+
+started in 2006.
+|
+
+¥ > Innovation creates China Heart
+
+i |
+We will continue to carry out the special project of core
+
+| electronic component, high-end common chip and basic software,
+“set up Aero Engine Corporation of China (AECC), mobilize our
+| strengths to make breakthroughs in integrated circuit, engine
+and gas turbine to get the “Pearl of Industrial Crown” as soon as
+possible.
+
+l |
+BS Further reform, consolidate foundation and highlight environment
+
+About 90% of modern technology innovation findings stem
+from basic research. China lags behind in basic research, so core
+technology are controlled by others. We need to make more efforts
+into basic research and make more innovations and create flexible
+innovation environment.
+
+Ghina’s Strengths Greates Innovation Miracles yaa55
+
+Launch the
+first Mars
+probe
+
+Launch Chang’e 4
+and carry out world’s
+first exploration on
+far side of the Moon.
+
+China deploys important
+programs like quantum
+communication and
+quantum computer.
+
+Innovation is “flowing water”,
+making China’s seed of advanced ideas into towering trees.
+
+Innovation is “perpetual motion machine”
+
+advancing our development boldly.
+
+Growing from a poor country to a rich and strong one, China is
+now emerging as an innovative country. The gate for the rejuvenation
+of the Chinese nation is already open.
+
+(Source: Xinhua Net, August 18 2017)
