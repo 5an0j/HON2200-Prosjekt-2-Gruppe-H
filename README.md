@@ -10,6 +10,9 @@ List of keywords inn excel table.
 #### `text_analysis.py`
 Main analysis.
 
+#### `requirements.txt`
+Contains all requirements to run the programs.
+
 ### `Strategies/`
 Contains source documents in pdf- and txt-format and code to convert to txt-files.
 
@@ -34,3 +37,4 @@ The report in pdf format
 
 - **`Additional_plots/`**
   - Contains additonal figures and plots not included in the report.
+

@@ -1,0 +1,2 @@
+To run the text analysis (text_analysis.py), only numpy, matplotlib, pandas and string are required.
+The pdf-reader uses os, pdf2image and pytesseract. The latter requires installation of tesseract (eg. installed from UB Mannheim, see https://github.com/UB-Mannheim/tesseract/wiki ) while pdf2image uses poppler. Both should be added to path.
