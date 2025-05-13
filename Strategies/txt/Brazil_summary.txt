@@ -1,0 +1,944 @@
+Summary of the
+Brazilian Artificial
+Intelligence Strategy
+-EBIA-
+
+2021
+
+. “MINISTRY OF
+SCIENCE, TECHNOLOGY
+*  ANDINNOVATIONS
+
+2 | Brazilian Artificial Intelligence Strategy
+
+INTRODUCTION
+
+EBIA was established with the aim of guiding the actions of the Brazilian
+government in favor of the development of actions, in its various aspects, that
+stimulate research, innovation and development of Al solutions, as well as, their
+conscious and ethical use. The concept of Al adopted is that presented by the OECD:
+“an Al system is a machine-based system that can, for a given set of objectives
+defined by human, make predictions, recommendations or decisions that influence
+real or virtual environments. Al systems are designed to operate with varying levels
+of autonomy”. Also, according to the OECD, an Al system consists of three main
+elements: sensors, operational logic and actuators. The sensors collect raw data
+from the environment, processed by operational logic to provide outputs to the
+actuators, which in turn act to change the state of the environment. This cycle is
+repeated countless times, and as the environment is changed by the Al system,
+each cycle the operational logic can be improved.
+
+1. INTERNATIONAL REFERENCES
+
+Still referring to these OECD recommendations on Al, the document cites the
+following points as key issues to be addressed by EBIA:
+
++ Al must benefit people and the planet, driving inclusive growth, sustainable
+development and well-being.
+
+- Alsystems must be designed in a manner that respects the rule of law, human
+rights, democratic values and diversity, and must include appropriate safeguards -
+for example, enabling human intervention whenever necessary - to ensure a fair
+society.
+
+* Organizations and individuals who play an active role in the Al lifecyc
+must commit to transparency and responsible disclosure in relation to Al system
+providing relevant and state of the art information that will (i) promote the genera
+understanding of Al systems; (ii) making people aware of their interactions with
+Al systems; (ii) allowing those affected by an Al system to understand the resul
+produced; and (iv) allow those adversely affected by an Al system to contest i
+outcome.
+
+YY oO
+
+nn
+
+- Al systems must operate in a robust, safe and protected manner throughout
+their life cycles, and potential risks must be assessed and managed on an ongoing
+basis.
+
+In addition, the EBIA emphasizes that the principles defined by the OECD in
+this same recommendation are its guiding principles for responsible management
+of Al systems, namely: (i) inclusive growth, sustainable development and well-being;
+
+MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATIONS | C7!
+
+Brazilian Artificial Intelligence Strategy [2
+
+(ii) human-centered values and equity; (iii) transparency and explainability; (iv
+robustness, security and protection and; (v) accountability.
+
+In addition to discussions within the OECD, the MCTI also paid attention to the
+efforts made by countless countries to develop policies, strategies or plans to dea
+with the issue. Among such initiatives, the main axes identified, according to EBIA,
+were:
+
+* Research and Development: attracting, retaining and training Al talent from
+he country itself or from abroad, with academic funding, scholarship programs and
+he creation of specific master’s and doctoral programs in Al; create new centers or
+programs in basic and applied research, specific to Al.
+
++ Professional skills and the future of work: initiatives to empower the workforce,
+in general, that develop skills for the future of work, such as investment in lifelong
+education and digital skills.
+
++ Industrialization and Al: programs to encourage the adoption of Al techno-
+ogies by the private sector, with investments in strategic sectors, financing for Al
+
+startups, in small and medium companies, strategies to create clusters for Al.
+
++ Ethical standards for Al: creation of councils, committees or task forces to
+develop norms and regulations, to support the ethical use and development of A\
+This theme also includes specific funding for research or pilot programs to create
+explainable and transparent Al.
+
+* Data Governance and Digital Infrastructure: financing for partnership
+involving the use of open data, shared Al software development platforms and dat
+sets, as well as a commitment to create test environments to protect citizens’ rights.
+
+Yn
+
+fe)
+
+* Alin Government: establishment of pilot programs that use Al to improve the
+efficiency of Government, service delivery and Public Administration.
+
+: Al for social well-being: designing programs to ensure that Al is used to
+promote social well-being, economic and cultural growth, and to promote inclusion
+through its applications.
+
+THEMATIC AXES
+
+From all this analysis of the international scenario, the MCTI identified nine
+thematic axes that make up the EBIA, which are divided into the following two
+groups:
+
+z=
+3)
+=
+n
+z
+Q
+-
+$
+°
+Zz
+z
+Q
+z
+<
+>
+oO
+°
+a
+°
+z
+rz
+0
+wu
+Fe
+wr
+Vv
+Zz
+wi
+o
+a
+w
+°
+>
+4
+Ee
+a
+<
+=
+
+NAY
+
+)—-@ NN!
+
+|. Transverse Axes:
+
+‘Legislation, regulation and ethical use
+‘Al governance
+
+‘International aspects
+
+Il. Vertical Axes:
+
+‘Education
+
+‘Workforce and training
+
+*RD&l and entrepreneurship
+‘Application in the productive sectors
+‘Application in the public power
+
++ Public security
+
+@) Mf Ac ~
+
+L/h
+iy
+
+\
+CF) »
+
+Vy
+
+MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATIONS | C7!
+Brazilian Artificial Intelligence Strategy ls
+
+1. LEGISLATION, REGULATION AND ETHICAL USE
+
+The technological development of Artificial Intelligence has been accompanied
+by intense discussions about the need to develop legal, regulatory and ethica
+parameters to guide the development and application of technology. At the center
+of such debates is the concern to establish a balance between (i) the protection and
+safeguarding of rights, including those associated with the protection of persona
+data and the prevention of discrimination and algorithmic bias; (ii) the preserva-
+tion of adequate structures to encourage the development of a technology whose
+potential has not yet been fully understood; and (iii) the establishment of lega
+parameters that provide legal certainty regarding the responsibility of the different
+actors that participate in the value chain of autonomous systems.
+
+It was highlighted that the debates about the establishment of genera
+principles and ethical parameters to be adopted by public and private actors on
+the subject have gained prominence, through codes of conduct, manuals of best
+practices and high-level guidelines. References cited were the OECD' and G20 A
+principles’; Ethical Guidelines for a European Union Trusted Al; among others.
+
+Many of the documents cited by
+EBIA indicate that the development of
+Artificial Intelligence must observe the
+harmonization of the principles that
+guide the notionofthe rule oflaw,sothat
+it benefits the society, driving inclusive
+growth, sustainable development and
+well-being. To promote an institutiona
+and regulatory environment conducive
+to innovation and_ technologica
+development, given its rapidly evolving
+nature, the document recognizes that
+there is a scenario in which regulation is complex and prone to become obsolete
+quickly, and are at risk of preventing the responsible development and use of Al.
+
+In addition, it is often stated
+that systems must be designed
+in a way that respects human
+rights, democratic values and
+diversity, imposing the inclusion of
+
+appropriate safeguards that enable
+human intervention, whenever
+necessary, to guarantee a just
+society.
+
+Therefore, it is concluded that, in view of the gradual process of large-scale
+adoption of Alin Brazil andthe recent entry into force of the General Data Protection
+Law (LGPD), which addresses several issues related to the use of Al, the EBIA adopts
+the understanding that it is necessary to deepen the study of the impacts of Al
+in different sectors, avoiding regulatory actions (in a broad sense) that may unne-
+cessarily limit Al innovation, adoption and development. However, it argues that
+concerns about human dignity and the enhancement of human well-being must be
+present from the conception of these solutions to the verification of their effects on
+the reality of citizens (ethics by design), making ethical principles be followed in all
+stages of Al development and use, and may even be raised to normative require-
+ments to be part of all governmental initiatives regarding Al.
+
+MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATIONS | C7!
+
+1 https://www.oecd.org/going-digital/ai/principles/
+2 https://www.mofa.go.jp/files/000486596.pdf
+3 https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai
+
+6 | Brazilian Artificial Intelligence Strategy
+
+ohay Strategic actions - Legislation,
+Neat 2
+
+regulation and ethical use
+
++ To stimulate the production of an ethical Al by financing research projects
+that aim to apply ethical solutions, mainly in the fields of fairness, accountability and
+transparency, known as the matrix FAT.
+
+* To encourage partnerships with corporations that are researching commercial
+solutions for these ethical Al technologies.
+
+To establish as a technical requirement in tenders that bidders offer solutions
+compatible with the promotion of ethical Al (for example, establish that facial
+recognition technology solutions acquired by public agencies have a false positive
+percentage below a certain threshold).
+
+* To establish, in a multisectoral way, spaces for the discussion and definition
+of ethical principles to be observed in the research, development and use of Al.
+
++ To map out legal and regulatory barriers to the development of Al in Brazil
+and identify aspects of the Brazilian legislation that may require updates, in order
+to promote greater legal certainty for the digital ecosystem.
+
++ To stimulate actions of transparency and responsible disclosure regarding
+the use of Al systems, and promote the observance, by such systems, of human
+rights, democratic values and diversity.
+
+To develop techniques to identify and mitigate the risk of algorithmic bias.
+
+To develop data quality control policy for the training of Al systems.
+
+* To create parameters about human intervention in Al contexts where the
+result of an automated decision implies a high risk of harm to the individual.
+
+* To encourage the exploration and development of appropriate review
+mechanisms in different contexts of use of Al by private organizations and public
+bodies.
+
+* To create and implement best practices or codes of conduct regarding the
+collection, implementation and use of data, encouraging organizations to improve
+their traceability, safeguarding legal rights.
+
+* To promote innovative approaches to regulatory oversight (for example,
+sandboxes and regulatory hubs).
+
+z=
+3)
+=
+n
+z
+°
+-
+BS
+°
+Zz
+Zz
+Q
+z
+<
+>
+oO
+°
+a
+°
+z
+r
+s)
+Ww
+Fe
+wr
+Vv
+Zz
+w
+5G
+wn
+w
+°
+>
+4
+Ee
+n
+<
+=
+
+Brazilian Artificial Intelligence Strategy f7
+
+2. Al GOVERNANCE
+
+As discussions about the ethical use of Al advance, so do the debates
+about governance frameworks that promote methods and procedures to ensure
+compliance with these principles. Reference is made to the government of
+Singapore, As discussions about the ethical use of Al advance, so do the debates
+about governance frameworks that promote methods and procedures to ensure
+compliance with these principles. Reference is made to the government of Singapore,
+which launched the first edition of a “Model Al Governance Framework" that seeks
+to translate ethical principles into implementable practices in the Al development
+process.
+
+A fundamental aspect of this process, according to the EBIA, is to establish
+mechanisms that allow the prevention and elimination of biases, which can resul
+both from the algorithms used, as well as from the databases used for their training.
+For an algorithm to be “explainable” or “interpretable”, it is desirable that the stages
+of the machine learning process that resulted in an inference are traceable and that
+the variables that weighed in decision making can be scrutinized. Based on this,
+it refers to the concept of accountability and the importance of implementing A
+governance structures in this regard.
+
+ohay Strategic Actions - Al Governance
+
+‘To structure governance ecosystems for the use of Al, both in the public and
+private sectors.
+
+‘To encourage data sharing, observing the LGPD.
+
+‘To promote the development of voluntary and consensual standards to
+manage the risks associated with Al applications.
+
+‘To encourage organizations to create data review boards or ethics committees
+in relation to Al.
+
+‘To create an Artificial Intelligence observatory in Brazil, which can connect to
+other international observatories.
+
+‘To encourage the use of representative data sets to train and test models.
+‘To facilitate access to open government data.
+
+‘To improve the quality of the available data, in order to facilitate the detection
+and correction of algorithmic biases.
+
+‘To encourage the dissemination of open-source codes capable of verifying
+discriminatory trends in data sets and machine learning models.
+
+MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATIONS | C7!
+
+‘To develop guidelines for the draft of Data Protection Impact Reports (RIPD).
+
+8 | Brazilian Artificial Intelligence Strategy
+
+MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATIONS | C7!
+
+‘To share the benefits of Al development to the greatest extent possible and
+
+promote equal development opportunities for different regions and industries.
+
+tions.
+
+‘To develop educational and awareness campaigns.
+
+3. INTERNATIONAL ASPECTS
+
+The EBIA recogn
+
+‘To stimulate social dialogue with multisectoral participation.
+
+‘To leverage and encourage accountability practices related to Al in organiza-
+
+izes that the global race for Al leadership shows that the
+
+development and growing adoption of Al generates impacts that transcend national
+boundaries, whether in the economic field or in the field o
+to expand Brazil's operations in the world, it is essential
+
+cation of the flows of
+
+nowledge, trade, finance, people, d
+
+between countries and blocs with converging interests in
+
+More specifically,
+stance at the internat
+
+it argues that Brazil should adopt a
+ional level, fostering discussions, ini
+
+f RD&l. And that, in order
+0 promote the intensifi-
+ata and communications
+his field.
+
+proactive and purposeful
+iatives and partnerships
+
+on Artificial Intelligence in international bodies and forums, as well as in discussions
+and negotiations between countries and blocs. It would be also necessary to promote
+
+international coopera
+
+ion in norms, technological, regula
+
+tory and legal standards,
+
+in order to facilitate economic integration and the dynamics of exchanges in the
+field of Artificial Intelligence, always valuing the privacy of users and the protection
+
+of personal data.
+
+ohn Strategic actions - International aspects
+Aw
+
+forums that promote the ethical use of Al.
+
+including startups.
+
+telligence technologies.
+
+‘To assist the integration of the Brazilian State in international bodies and
+
+‘To promote the exchange of specialists who carry out research in Al, in the
+various scientific fields, in the exact sciences, humanities and health.
+
+‘To encourage the export of Al systems developed by Brazilian companies,
+
+‘To develop cooperation platforms for exchanging information on Artificial In-
+
+Brazilian Artificial Intelligence Strategy foo
+
+4. QUALIFICATIONS FOR A DIGITAL FUTURE
+(EDUCATION)
+
+In the field of education, the challenge is to prepare current and future
+generations to live with the changes and impacts of Al, many of which are not yet fully
+understood. It is mentioned that some countries already offer training in the area
+of computing based on the principles and methods used by Al, such as platforms of
+introduction to non-deterministic programming, use of computational thinking in a
+non-deterministic way, education based on robotics and other techniques specific
+to area.
+
+The document states that qualifying for
+a world with Al involves more than science,
+
+technology, engineering and mathematics. The promotion of digital
+As computers behave more like human literacy becomes a key factor
+beings, the social and human sciences will for the development of a
+become even more important. Language, new mass of professionals
+art, history, economics, ethics, philosophy, prepared for the challenges
+psychology and human development of the next century.
+courses can teach critical, philosophi-
+
+cal and ethical skills that will be critical to
+
+the development and management of Al
+
+solutions.
+
+In relation to the labor market, the importance of digital literacy is considered
+even more latent. Many employers, right at the stage of evaluating job applications,
+require mastery of digital skills, which act as a catalyst, training other important
+skills. It is essential, according to the EBIA, that each citizen master basic digital skills
+and have key competences to apply in various professional activities.
+
+@); Strategic actions - Education
+
+- To assess the possibility of updating the Common National Curriculum Base
+(BNCC) in a way that more clearly incorporates elements related to computational
+thinking and computer programming.
+
+- To develop digital literacy program in all areas of education and at all levels
+of education.
+
+- To expand offer of undergraduate and graduate courses linked to Artificial
+Intelligence.
+
+To stimulate the development of interpersonal and emotional skills, such as
+creativity and critical thinking (soft skills).
+
+MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATIONS | C7!
+
+- To evaluate ways of incorporating Al technologies in school environments
+that take into account the peculiar condition of children and adolescents as people
+in development, as well as their personal data protection rights.
+
+10 | Brazilian Artificial Intelligence Strategy
+
+MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATIONS | C7!
+
+: To institute technological training programs for teachers and educators.
+
++ To add courses in data science, linear algebra, calculus and probability and
+statistics to the list of complementary activities in high school programs.
+
+* To promote interaction programs between the private sector and educational
+institutions that allow the exchange of practical knowledge on the development and
+use of Artificial Intelligence technologies.
+
+* To create mechanisms to increase the interest of Brazilians in STEM group
+subjects at school age, with a special focus on gender and race inclusion programs
+in these areas.
+
+5. WORKFORCE AND TRAINING
+
+It recognizes that there will be a growing demand for skills related to technology,
+both in the field of basic digital skills and also in the area of advanced technologi-
+cal skills, such as computer programming, advanced skills in digital literacy, critical
+thinking and problem solving. It is believed that important changes will occur,
+involving the creation of new jobs and the disappearance or transformation of
+others.
+
+Training, and its continuity over time, plays a very important role in preparing
+the workforce, not only in view of the creation of new functions and careers, but
+also to better adapt current professionals to the changes required due to the use
+of technology.
+
+Strategic actions - Workforce and training
+
+* To establish partnerships with the private sector and academia to define
+concrete public policies that encourage the training and qualification of professio-
+nals, considering the new realities of the labor market.
+
+* To encourage companies and public agencies to implement a continuous
+training program for their workforce focused on new technologies.
+
+: To create awareness campaigns on the importance of preparing for the
+development and ethical use of Al.
+
+- To stimulate the retention of ICT-specialized talents in Brazil.
+
+- To create public policies that encourage the training and qualification of pro-
+fessionals, keeping in mind the new realities of the labor market.
+
+- To encourage the diverse composition of Al development teams, in terms of
+gender, race, sexual orientation and other socio-cultural aspects.
+
+* To reinforce policies aimed at continuing education and lifelong learning,
+promoting greater interaction between the private sector and educational institu-
+tions (universities, research institutes and professional and technical training).
+
+Brazilian Artificial Intelligence Strategy Pa
+
+6. RESEARCH, DEVELOPMENT, INNOVATION AND
+ENTREPRENEURSHIP
+
+The EBIA again cites the OECD recommendation on Al, emphasizing that
+national states should promote and encourage public and private investments in
+R&D, contemplating interdisciplinary efforts to promote innovation in reliable Al,
+in order to focus not only on technical challenges, but also on social, legal and
+ethical implications associated with Al. In addition, the document recommends that
+governments enable investments in open databases, which should be representa-
+ive and respect the rights to privacy and protection of personal data, in order to (i)
+promote an environment for research and development in Al that is free from bias;
+and (ii) improve interoperability and the use of common standards. In addition to
+hese aspects, the OECD also indicates that governments should promote a public
+policy environment that supports an agile transition from the R&D phase to the
+development and operation phase of Al systems.
+
+In the understanding of MCTI, Artificial Intelligence Research and Development
+must adopt ethical design approaches to make the system reliable. This may include,
+but is not limited to: making the system as fair as possible, reducing possible dis-
+crimination and prejudice, improving its transparency, providing explanation and
+predictability and making the system more traceable, auditable and accountable.
+
+In addition, with regard to public policies aimed at RD&l, for categorization
+purposes, EBIA identified three categories of government action:
+
+(i) Financier or direct investor: governments can provide financing to support
+the development and adoption of emerging technologies, with practical application
+in the public sector, as well as private sector R&D projects whose results can apply
+to the entire economy.
+
+ii) Flexible regulator: Accelerated innovation cycles in emerging digital techno-
+logies require rethinking the types of policies and regulatory instruments used and
+their implementation. Legal certainty is essential to guarantee investment.
+
+iii) Data administrator: Governments own or maintain vast databases. This
+data can power Al-based technologies, especially when well managed.
+
+EBIA also recognizes the importance of adopting regulatory sandboxes in order
+to support organizations that are developing innovative products and services using
+personal data and to develop a shared understanding of what compliance is like in
+specific innovative areas. As an example, it cited the “Sandbox Guide” developed by
+the Information Commissioner's Office, designed to guide entrepreneurs who want
+to develop innovative businesses safely .
+
+z=
+3)
+=
+n
+z
+Q
+-
+$
+°
+Zz
+z
+Q
+z
+<
+>
+oO
+°
+a
+°
+z
+rz
+0
+wu
+Fe
+wr
+Vv
+Zz
+wi
+o
+a
+w
+°
+>
+4
+Ee
+a
+<
+=
+
+12 | Brazilian Artificial Intelligence Strategy
+
+Strategic actions - Research, Development,
+Innovation and Entrepreneurship
+
+‘To define priority areas for investments in Al, in line with other policies related
+to the digital environment.
+
+* To expand the possibilities of research, development, innovation and
+application of Al, by making it possible to provide specific resources for this topic
+and by coordinating existing initiatives.
+
+To establish connections and partnerships between the public sector, the
+private sector and scientific institutions and universities in order to advance the
+development and use of Al in Brazil
+
+To promote a public policy environment that supports an agile transition
+from the R&D phase to the development and operation phase of Al systems.
+
+* To promote an environment for research and development in Al that is free
+from bias.
+
+To improve interoperability and the use of common standards.
+
+* To promote incentive mechanisms that encourage the development of Al
+systems that adopt ethical principles and values.
+
+7. APPLICATION IN THE PRODUCTIVE SECTORS
+
+In the industry, Artificial Intelligence will play a key role in making business
+more effective, with reduced costs and a minimum operational error rate. It can
+be used in different sectors, automating a series of processes and making the
+day-to-day business more flexible and agile. Thus, entrepreneurs will be able to
+dedicate more time to activities close to the enterprise’s core business and less
+to bureaucratic and operational issues. Industries with large assembly lines, for
+example, can use Artificial Intelligence to decrease the number of errors in product
+assembly processes.
+
+It recognizes that among the challenges to establish public Al policies, is to
+identify the branches of use of Al and the market areas in which the investments
+to be applied can generate the best results. These areas can give visibility to the
+country in international terms, generate jobs with better qualifications, attract large
+IT companies in the offer of technological solutions, generate Al products and appli-
+cations for the diverse needs of the public and private sectors and, also, prepare
+the country for the need for requalification that technology has been imposing on
+a global level.
+
+z=
+3)
+=
+n
+z
+°
+-
+BS
+°
+Zz
+Zz
+Q
+z
+<
+>
+oO
+°
+a
+°
+z
+r
+s)
+Ww
+Fe
+wr
+Vv
+Zz
+w
+5G
+wn
+w
+°
+>
+4
+Ee
+n
+<
+=
+
+Brazilian Artificial Intelligence Strategy 13
+
+Strategic actions - Application in the productive
+sectors
+
+* To define or identify a public-private governance framework to promote the
+advancement of intelligent IT industries, along the lines of the Brazilian Chamber of
+Industry 4.0.
+
+* To foster the emergence of new Brazilian Startups in the area through new
+publicprivate partnerships.
+
+* To create collaboration networks between technology-based startups and
+small and medium-sized companies (SMEs).
+
+* To incorporate in initiatives such as the Brasil Mais Program incentive
+mechanisms for the use of Al by small and medium-sized companies, in order to
+improve management processes and promote their digital transformation.
+
+8. APPLICATION IN THE PUBLIC POWER
+
+The idea of digital government presupposes taking advantage of and incorpo-
+rating scientific and technological advances in the field of data science and artificial
+intelligence in the creation of solutions to improve public services. The combination
+of data science, automatic learning and high computational power constitutes an
+important contribution to transform the large amount of data available in Public
+Administration into relevant information (finding patterns) and transformative
+knowledge (anticipating failures and optimizing actions). These transformations
+may modify the decision-making processes, relating to matters with a critical impact
+on the lives of citizens, and also improve operational processes, reducing deadlines
+and obtaining more effective responses to the needs presented.
+
+It recognizes that the Public Power has an important role in promoting the
+adoption of Al, creating an enabling environment for its full development. This
+should start with the adoption of responsible Al technologies in the public sector,
+in order to improve the quality of the service offered to the citizen, to promote a
+transparent and efficient interaction, to increase the level of public confidence in
+the government and to generate better results for the citizens.
+
+Strategic actions - Application to the public
+authorities
+
++ In line with the provisions of the Digital Government Strategy, to implement
+Artificial Intelligence resources in at least 12 federal public services by 2022.
+
+- To incorporate Al and data analysis into public policy formulation processes.
+
+MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATIONS | C7!
+
+* To implement data experimentation spaces with Al and develop Al-oriented
+RD&l partnerships with higher education institutions, the private sector and the
+third sector.
+
+18 | Brazilian Artificial Intelligence Strategy
+
+* To update and reassess work processes and practices, in preparation for
+possible changes in the environments in which Al systems are introduced.
+
+* To consider, in tenders and administrative contracts aimed at the acquisition
+of Artificial Intelligence products and services, criteria aimed not only at technical
+efficiency, but also related to the incorporation of ethical principles related to trans-
+parency, equity and non-discrimination.
+
+* To establish mechanisms for swift investigation of complaints and complaints
+about violations of rights in decisions made by Al systems.
+
+* To promote the exchange of open data between Public Administration
+entities and between them and the private sector, always with respect to the right
+to the protection of personal data and trade secrets.
+
+* To conduct impact analysis on Al use cases that directly affect the citizen or
+the public servant.
+
+* To establish ethical values for the use of Al in the Federal Public Administra-
+tion.
+
+* To encourage public bodies to promote awareness of the use of Al in their
+staff.
+
+9. PUBLIC SECURITY
+
+Artificial Intelligence systems have potential applications in numerous activities
+related to security and defense, whether in the context of the Public Power or in the
+private sector. One of the main applications of Al in the field of security concerns
+solutions that allow the identification of objects and people in images and videos,
+which can be used in simple applications - such as the detection of a person jumping
+over a wall - even applications that are able to identify people carrying guns on the
+street and/or assaulting others.
+
+On the other hand, the use of such technologies has also been widely discussed,
+mainly with regard to the problems associated with bias and discrimination arising,
+in many cases, from insufficiently representative training databases. Although facial
+recognition systems for public security have been adopted in a number of contexts,
+including in Brazil, the rates of false positive identifications raise concerns.
+
+Taking into account the opportunities and challenges of using Al within
+this sector, EBIA identifies some measures that would guarantee technological
+development and the protection of personal data:
+
+(i) Soft law mechanisms: Guides and recommendations that assist regulators
+and regulated parties in applying the normative provisions of the relevant laws.
+Examples include the ICO, the European Data Protection Supervisor and the NIST.
+
+MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATIONS | C7!
+
+(ii) Supervisory structure: Supervisory structures usually include one or more
+representative parties legitimized by the State that have instruments to guarantee
+
+Brazilian Artificial Intelligence Strategy 15
+
+the applicability of the law (enforcement), as well as the recommendation of best
+practices and other safeguards.
+
+(iii) Adoption of technical norms or standards (standardization): Technical
+norms and standards are established by the technical-scientific communities, in
+order to guide the industry in the development and implementation of technologi-
+cal solutions. An internationally recognized organization for standards publication
+is the International Organization for Standardization (ISO).
+
+(iv) Data protection regulations applied to public security: The processing
+of data in the context of public security requires a specific law, since this topic is
+outside the scope of the LGPD.
+
+(v) Implementation of a regulatory sandbox: The regulatory sandbox is an
+important regulatory technique that allows transparency regarding technological
+solutions developed by private or state entities.
+
+Strategic actions - Public security
+
+* To establish supervisory mechanisms to monitor the use of Al for public
+security activities.
+
+* To encourage bodies that use Al for monitoring to submit a data protection
+impact report prior to implementation.
+
+‘ To provide effective mechanisms so that monitored individuals can react to
+the surveillance operation.
+
+To present reports with statistics and results of the implemented service.
+
+To draft law on data protection applied to public security.
+
+To implement a privacy and data protection regulatory sandbox for Al systems
+aimed at public security.
+
+z=
+3)
+=
+n
+z
+Q
+-
+$
+°
+Zz
+z
+Q
+z
+<
+>
+oO
+°
+a
+°
+z
+rz
+0
+wu
+Fe
+wr
+Vv
+Zz
+wi
+o
+a
+w
+°
+>
+4
+Ee
+a
+<
+=
+
+MINISTRY OF SCIENCE,
+TECHNOLOGY AND INNOVATIONS
+
+LEARN MORE ABOUT MCTI'S
+PROJECTS AND ACTIONS
+
+OPEN YOUR MOBILE CAMERA
+AND SCAN THE QR CODE

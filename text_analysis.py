@@ -6,7 +6,9 @@ files = {
     'China': 'Strategies/txt/China.txt',
     'EU': 'Strategies/txt/EU.txt',
     'Norway': 'Strategies/txt/Norway.txt',
-    'USA': 'Strategies/txt/USA.txt'
+    'USA': 'Strategies/txt/USA.txt',
+    'Brazil': 'Strategies/txt/Brazil_summary.txt',
+    'Poland': 'Strategies/txt/Poland.txt'
 }
 
 df_keywords = pd.read_excel('keywords.xlsx')
