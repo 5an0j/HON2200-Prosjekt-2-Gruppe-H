@@ -1,3 +1,10 @@
+"""
+Dette er en modul jeg skrev til et annet prosjekt. Vi bruker veldig lite av funksjonaliteten, 
+men det er raskere å importere klassen for å gjøre analysen enn å kopiere over de relevante delene.
+(Den bør altså ikke regnes som en del av dette prosjektet. Se heller på anvendelsen av den i embedding.ipynb)
+"""
+
+
 # Standard imports
 import io
 import matplotlib
