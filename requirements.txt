@@ -1,2 +1,3 @@
 To run the text analysis (text_analysis.py), only numpy, matplotlib, pandas and string are required.
 The pdf-reader is a jupyter notebook and uses os, pdf2image and pytesseract. The latter requires installation of tesseract (eg. installed from UB Mannheim, see https://github.com/UB-Mannheim/tesseract/wiki) while pdf2image uses poppler. Both should be added to path.
+For topographical analysis, several additional libraries are needed: io, gc, pickle, scipy, scikit-learn, ortools, Pillow, sentence_transformers
