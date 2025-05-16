@@ -5,9 +5,9 @@ import string
 files = {
     'China': 'txt/China.txt',
     'EU': 'txt/EU.txt',
-    'Norway': 'txt/Norway.txt',
+#    'Norway': 'txt/Norway.txt',
     'USA': 'txt/USA.txt',
-    'Brazil': 'txt/Brazil_summary.txt',
+#    'Brazil': 'txt/Brazil_summary.txt',
     'Poland': 'txt/Poland.txt'
 }
 
@@ -67,4 +67,4 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 
-print(df)
+df.to_csv('keyword_results.csv')
