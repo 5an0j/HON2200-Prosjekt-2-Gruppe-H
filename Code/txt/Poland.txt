@@ -1,0 +1,2981 @@
+Appendix
+to the Resolution no. 196
+of the Council of Ministers
+of 28 December 2020
+(item 23)
+
+Policy for the Development of
+Artificial Intelligence
+in Poland
+
+from 2020
+Introduction
+
+Al policies in Poland in relation to strategic documents
+
+The “Policy for the Development of Artificial Intelligence in Poland from 2020”, which will hereinafter
+be referred to as the “Al Policy was drafted in line with the activities of the state and the European
+Union (EU) in this regard, and as a result of the adoption of strategic documents by several
+international organisations — such as the Organization for Economic Cooperation and Development
+(OECD) — of which Poland is a member. In particular, the Al Policy takes into account the objectives
+defined in the following strategic documents:
+
+Communication of the European Commission (EC) "Coordinated plan on Artificial Intelligence”*),
+Position of the Visegrad Group on Artificial Intelligence®), Recommendations of the High Level Expert
+Group on Artificial Intelligence (HLEG Al) to the European Commission in the form of "Ethics Guidelines
+for Trustworthy Al””) and Recommendations on Policy and Investment in Trustworthy Al®), as well as
+recommendations” concerning the management of trustworthy artificial intelligence, in the Strategy
+
+of Polish Foreign Policy") and the “Memorandum on the Development of Artificial Intelligence in
+‘Poland.
+
+More documents are planned to be released soon, including the Council of Europe and UNESCO
+recommendations, which are currently drafted by their respective Member States, and whose results
+may constitute the basis for future international treaties and agreements on artificial intelligence. In
+addition, an update of the European Commission’s “Coordinated Plan on Artificial Intelligence” is also
+expected, along with the initiatives concerning the legal framework for Artificial Intelligence (Al).
+
+The Al Policy directly constitutes an element of the new Polish Productivity Strategy and the Efficient
+and Modern State 2030 strategy, which are currently being drafted.
+
+This Al Policy does not cover state activities in the area of national security and defence; however, it
+assumes the cooperation of the civilian sector with the military sector in all areas considered useful
+for the needs of national defence in accordance with the priorities set out in the National Security
+
+0 https://mc.bip.gov.p|/programy-realizowane-w-mc/programu-otwierania-danych-publicznych.html
+
+2) https://www.gov.pl/web/inwestycje-rozwoj/informacje-o-strategii-na-rzecz-odpowiedzialnego-rozwoju
+
+3)
+4)
+
+https://www.gov.pl/web/cyfryzacja/od-papierowej-do-cyfrowej-polski
+
+http://kigeit.org.pl/FTP/PRCIP/Literatura/006_1 Strategia_Innowacyjnosci_i_Efektywnosci_Gospodar
+ki_2020.pdf
+5) https://eur-lex.europa.eu/resource.html?uri=cellar:22ee84bb-fa04-11e8-a96d-
+01aa75ed71a1.0016.02/DOC_1&format=PDF
+®) https://www.gov.pl/web/cyfryzacja/stanowisko-grupy-wyszehradzkiej-dotyczace-sztucznej-inteligencji
+
+7 https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai
+
+8) https://ec.europa.eu/digital-single-market/en/news/policy-and-investment-recommendations-trustworthy-
+artificial-intelligence
+
+) http://www.oecd.org/going-digital/ai/
+
+10) https://www.gov.pl/attachment/8196524f-687b-40e6-aca8-82c53ff8e6db
+
+1) https://www.gov.pl/documents/31305/436699/DEKLARACJA_26022019.pdf/f0d107c8-5935-ca86-da8b-
+9290e3c3dc26?download=true
+
+Strategy of the Republic of Poland, approved by the order of the President of the Republic of Poland
+from 12 May 2020 (Monitor Polski, item 413).
+Table of contents
+
+EX@CULIVE SUMIMALY .... eee ceeeeeesseeeceeeneceseeseeseeesseseeeaecseceaeesecseeeeesaesescaseseeeaecsaseeessesaesessssesesessaseeseaeseeeeseaee 6
+Introduction... 9
+Why is Al IMpOrtant?....... ccc ccceccsscsscsseesecsscssecsecessesececesecseceeeseeceesesscaeessecsecessesesaeseescaeseeseaessesenesaess 9
+Poland's achieVeMeNtS ........cc cece cere reese serene erences senses nesenseeneseneeetesieseesesseseeeseseeeeeeseneaege 10
+The potential Of Al... cc ccccccsccscssecseesscsssssesssceseceecesecsessecesecsesessessesescsecesesesseseescsseaeseseeaesenesaesaeseeses 13
+Al fUNGING SOULCES 00... eeeeeseeceeseseeseeeseeccsceseescseeseeeesecsesacsacsecseeacsecaesaesessesaesaeseeasassesaesaseesseeaseesaeeaeeeee 15
+1. Al and SocietY oe. eeeeeeeeeseeeeseeseeseseeseaeseeseecsecsesacsecseeasaseeseesassessesaeseeseeaeeessesaesassassetaseesieeaeeeees 23
+
+Strategic partners for Al and Society: .
+
+Short-term objectives (UNti] 2023) 0... eee eeeeeeeeseeeeeecseeseeeseeeeseceeceeecsesaeaesecseeessesaesaseessetaseesseeaeeeeee 24
+Medium-term objectives (Until 2027)... eeeeseseeseeeeseeeeeeeseeeeseeseeecseceeseeecseeaeeeseeaeeessesaesateetseeaeeees 26
+LONMG-tErM BOIS... eeeesscesceceseesceeesesseeeeseeseeecseeseeseseeseeacsessesseaeseeaseaseesaesessesseeaeacsesaseesiesaesaseetseeaeeeee 28
+
+2. Al and innovative COMPANIES .........cceceessesccesesseesecssessecessesseseecsecseseeccsecsesessenscsecsececesesaeseeseasenseenes 30
+Strategic partners for Al and Innovative companies:
+
+Short-term objectives (until 2023)...
+Medium-term objectives (Until 2027)... eeeeseseeseeeeseeeeeeeseeeeseeseeecseceeseeecseeaeeeseeaeeessesaesateetseeaeeees 34
+LONMG-tErM BOIS... eeeesscesceceseesceeesesseeeeseeseeecseeseeseseeseeacsessesseaeseeaseaseesaesessesseeaeacsesaseesiesaesaseetseeaeeeee 35
+
+3. AL AN SCIENCE... eee cc eects ee rere cece cece cece seeececesecseeesesseeeeceseeseecessesseesesesseeesessssseeseseeseeesessaeaeeses 37
+Strategic partners for Al ANd SCIENCE? ..... eee eeesseeeeeeeeseeeeseeseeeceeceeeeeecseesesaeseeaseaesessesaeeeesetaeeesaeeaeeeee 38
+Short-term objectives (UNti] 2023) 0... eee eeeeeeeeseeeeeecseeseeeseeeeseceeceeecsesaeaesecseeessesaesaseessetaseesseeaeeeeee 38
+Medium-term objectives (until 2027)
+
+LONMG-tErM BOIS... eeeesscesceceseesceeesesseeeeseeseeecseeseeseseeseeacsessesseaeseeaseaseesaesessesseeaeacsesaseesiesaesaseetseeaeeeee 40
+
+4. Al and CdUCatION. ccc nen rene ne erences eens teres eeneseseeneseseesesassenecesseseeseseeneeseneeege 42
+Strategic partners for Al ANd CAUCATIONL «0... eeeeeeeeeeeseeseeeeseeseeeceeteeeesetseseeseeassacsesaetaeessetaseesaeeaeeee 42
+Short-term objectives (UNti] 2023) 0... eee eeeeeeeeseeeeeecseeseeeseeeeseceeceeecsesaeaesecseeessesaesaseessetaseesseeaeeeeee 43
+Medium-term objectives (Until 2027)... eeeeseseeseeeeseeeeeeeseeeeseeseeecseceeseeecseeaeeeseeaeeessesaesateetseeaeeees 45
+Long-term goals...
+
+5. Al and international COOperatiOn ..........cccsccscesessecsscsscssecesseseceessecseceecsseceesessesecascseceeceeesaeseeseaseneeenes 47
+Strategic partners for Al and international COOPErAatiOn:.........eceeeeeeseeseeseteeeeeceecetseeereeaeeecseeeeeeeee 47
+Short-term objectives (UNti] 2023) 0... eee eeeeeeeeseeeeeecseeseeeseeeeseceeceeecsesaeaesecseeessesaesaseessetaseesseeaeeeeee 48
+Medium-term objectives (Until 2027)... eeeeseseeseeeeseeeeeeeseeeeseeseeecseceeseeecseeaeeeseeaeeessesaesateetseeaeeees 49
+LONMG-tErM BOIS... eeeesscesceceseesceeesesseeeeseeseeecseeseeseseeseeacsessesseaeseeaseaseesaesessesseeaeacsesaseesiesaesaseetseeaeeeee 51
+
+6. Al and the public sector...
+
+Strategic partners for Al and the public SCCtOF:? ...... ce eceeseeseeeeeeeeeeeeeeetseeseseesseacseceeseesessetaseesaeeaeeeee 53
+Short-term objectives (UNti] 2023) 0... eee eeeeeeeeseeeeeecseeseeeseeeeseceeceeecsesaeaesecseeessesaesaseessetaseesseeaeeeeee 54
+Medium-term objectives (Until 2027)... eeeeseseeseeeeseeeeeeeseeeeseeseeecseceeseeecseeaeeeseeaeeessesaesateetseeaeeees 57
+Long-term goals.......c cesses
+Conclusions and next steps..............
+Appendix no. 1: Definition of Al.......
+
+Appendix no. 2: Polish Al ecosystem
+Executive Summary
+
+“The Policy for the Development of Artificial Intelligence in Poland from 2020” sets out a number of
+
+activities that Poland should undertake, as well as objectives that the country should achieve in the
+short term (until 2023), medium term (until 2027) and long term (after 2027) to foster the growth of
+Polish society, Polish economy and science in the field of Artificial Intelligence or Al for short.
+
+All the listed objectives and tools are divided into six areas:
+
+1.
+
+Al and society — activities, whose goal is to make Poland one of the major beneficiaries of
+a data-based economy, while raising awareness of the need for the continuous improvement
+of knowledge and skills, including digital competences.
+
+Al and innovative companies — activities aimed at supporting Polish Al companies, creating
+financing mechanisms to foster their growth, increasing the number of orders, ensuring
+cooperation between start-ups and the government and introducing new pro-development
+regulations — digital sandboxes.
+
+Al and science — activities supporting the Polish academic and research communities in
+designing interdisciplinary challenges or solutions in the field of Al, taking into account both
+the humanities and social sciences; establishing Al departments, training PhD students,
+awarding grants for researchers and other activities aimed at preparing a staff of experts
+capable of creating Al-based solutions, taking into account the framework for ethical and safe
+use of this technology, for the benefit of the economy and the welfare of citizens.
+
+Aland education — activities that are supposed to be implemented at every level of education
+— from primary, through secondary education up to the university level, including course
+curricula for people threatened with losing their jobs as a result of progressing automation
+and deployment of new technologies, educational grants aimed at helping to prepare the best
+staff for Polish Al economy.
+
+Al and international cooperation — international activities that will support the promotion of
+Polish business in the field of Al and the development of Al technologies that respect human
+dignity and fundamental human rights, in accordance with EU and OECD standards, as well as
+digital diplomacy activities in the area of policies or regulations concerning artificial
+intelligence.
+
+Al and the public sector— activities aimed at supporting the public sector in the
+implementation of contracts concerning Al, better coordination of activities and further
+development of programmes such as GovTech Polska, as well as protecting the people from
+relevant risks and threats. Other tills will comprise virtual data repositories or data trusts
+(trusted data space initiatives), the Government Cloud’) and making as much public data as
+possible open and available for use by citizens and businesses.
+
+22) https://chmura.gov.pl/informacje/rzadowa-chmura-obliczeniowa/
+
+The overarching aim of the Al Policy is to support the society, companies, representatives of the
+academia and public administration in taking advantage of opportunities related to Al development,
+while ensuring the protection of human dignity and conditions for fair competition in this global race.
+
+The Al Policy takes into account the international, legal, ethical, technical and organisational standards,
+which shape the requirements and conditions to reap the benefits of using Al throughout its life cycle,
+which encompasses design, research, development, deployment, application, use, decommissioning
+and disposal.
+Poland has the potential to make a dynamic transition from
+being a contender to an internationally recognised leader in Al
+technologies’). However, making use of this potential
+depends on all of us and on how well we can coordinate the
+activities of all participants in the Polish Al ecosystem.
+
+13) Digital McKinsey, Polska jako cyfrowy challenger. Cyfryzacja nowym motorem wzrostu dla kraju i regionu,
+2018, also The Rise of Digital Challengers. How digitization can become the next growth engine for Central
+and Eastern Europe. Perspective on Poland, 2018.
+Introduction
+
+Why is Al important?
+
+The process of digital transformation of society and the algorithm economy are the greatest
+developmental challenges in the 21st century. Public and commercial services and industries need to
+be saturated with data to enter the era of artificial intelligence. In recent years, data has become one
+of the most important materials. The acquisition, collection, analysis, processing and informed use of
+data and the continued development of Al algorithms are becoming a fundamental competence of
+economies and countries alike. This competence determines their place in the global supply chain and
+the added value associated with data processing in the fields where artificial intelligence is used.
+
+Data-driven economy changes the rules of growth that we knew in the past. This is a great opportunity
+for Polish companies and Polish economy, because these new solutions and services have been
+developed and implemented only recently, and in addition, it is much easier to build one’s position in
+a new, fledgling industry. This means that the Polish society can stop being just a consumer of others’
+inventions, while Poland can become a country of inventors and creators of new solutions.
+
+It is also an opportunity to make another developmental leap and uplift Poland from the group of
+middle-income countries to the group of highest-income states. If Poles are to become a prosperous
+society, they must take advantage of all the opportunities and benefits coming with the development
+of Al, while having an impact on the drafted regulations and laws regarding the operation of robots
+and self-learning systems, which will become increasingly important in our lives, work, education and
+leisure activities. Global trends and risks, such as the SARS-CoV-2 virus pandemic, have a great impact
+on the accelerated digitalisation of many areas of our lives. The manner and extent of the use of Al-
+based technologies requires further in-depth reflection, based on a substantive debate involving both
+experts in new technologies and ethics, as well as humanities and social science scholars.
+
+Al will also have a key impact on energy, climate and the environment at large. Al-based solutions in
+smart grids will allow integration and stabilisation of distributed energy generation and renewable
+energy sources, efficient management of energy consumption, and thanks to increased flexibility and
+control of the power system, introducing dynamic pricing formulas while increasing reliability level and
+quality of electricity supplied to the customers.
+
+Algorithmic economics tells us that much of the work in the future —will be done by robots or
+multifunctional systems with minimal human intervention. Poland's advantage in the form of
+competitive wages compared to highly developed countries will cease to matter. If Poland and Polish
+companies do not invest and develop solutions in the field of Al, robotics, as well as developing modern
+hardware and software solutions, other countries will do that first. As a result we will no longer be
+competitive in the European and global markets. For example, a factory that once employed 500
+people will be able to manufacture the same items, while reducing the number of operators to 5
+people. Services such as call centres, accounting, travel agencies, diagnostic laboratories and financial
+consultancy are already increasingly supported by Al-based solutions, and thus traditional jobs are
+gradually being replaced by smart software. Thus, it is necessary to ensure conditions for the upskilling
+of the general public in order to counteract technological unemployment.
+The development of new communication technologies, such as 5G, will make the progress and
+development of automation and robotics even more dynamic, as we have seen in the case of
+communications, which underwent such a revolutionary transformation in recent years. The modern
+phone is a very different device than it was even 15 years ago. Transformation at a similar scale awaits
+not only devices such as the electricity meter or cars, but also entire industries such as energy,
+transport, education, defence and agriculture. Al-based solutions will play a central role and their
+importance will continue to grow in smart grids, logistics and transportation, food production,
+autonomous cars and smart cities.
+
+Societies that produce and effectively implement new solutions, in particular in the area of artificial
+intelligence, will enjoy a better growth than those, who will merely use them. It is also crucial that the
+developed Al-based solutions always serve humanity at large, putting human rights and dignity first.
+That is why it is so important for the Polish voice to be constantly heard in the global debate on Al
+ethics, as well as on the functioning and operation of the smart or autonomous agents — algorithms
+that determine access to public services, surveillance robots, or autonomous cars.
+
+In the near future, we will see a drastic increase in the use of Al-based solutions in virtually all areas of
+life and the economy. At the same time, this is the first industrial revolution in history, in which we can
+take part as a sovereign state and free citizens. It is up to all of us to grasp the opportunities of the
+ongoing industrial revolution to build our wealth and increase our role in the global economy.
+
+Poland's achievements
+
+We can already boast first global success stories that can make artificial intelligence a driving force for
+the Polish economic growth. The intellectual potential of Poles and their achievements to date are the
+foundation on which we should build further development of technology.
+
+Al is a field in which Poland has a tangible chance of becoming one of the international leaders,
+contributing more than what the Polish GDP or population in relation to the entire global economy
+and population could suggest. It is a market in which know-how, intellectual property and creative
+skills are the main assets, and our country has them.
+
+Poland regularly achieves some of the best results in the Programme for International Student
+Assessment (PISA) coordinated by the OECD. In the area of mathematical reasoning, the results of the
+2018 study saw Polish 15-year-olds score 516 points, or 27 points higher than the average for OECD
+countries (compared to 504 points in 2015). Putting Asian countries aside, only two European countries
+achieved a higher result than Poland: Estonia and the Netherlands.
+
+10
+Mean (standard
+
+Country . Significance OECD
+deviation)
+1 China B-S-J- 591 (2.5) ”
+G
+
+2 Singapore 569 (1.6) +t
+3 Macau 558 (1.5) +t
+
+(China)
+4 Hong Kong 551 (3.0) +t
+
+(China)
+5 Taiwan 531 (2.9) +t
+6 Japan 527 (2.5) a OECD
+7 S. Korea 526 (3.1) a OECD
+8 Estonia 523 (1.7) +t OECD EU
+9 The 519 (2.6) +t OECD EU
+
+Netherlands
+
+Poland 516 (2.6) t OECD a
+11 Switzerland 515 (2.9) +t OECD
+12 Canada 512 (2.4) ” OECD
+13 Denmark 509 (1.7) +t OECD EU
+14 Slovenia 509 (1.4) +t OECD EU
+15 Bel 508 (2.3) +t OECD EU
+
+Figure 1. PISA 2018 study — student mathematics scores
+
+Source: Michat Sitek (ed.), Program Miedzynarodowej Oceny Umiejetnosci Ucznidw PISA — Wyniki badania PISA
+2018 w Polsce, Instytut Badan Edukacyjnych, Warsaw 2019, https://pisa.ibe.edu.pl, p. 13
+
+Poland is recognised as one of the leaders in the field of video games — a new technology field that
+takes advantage of many of the competencies useful in Al development. In both areas, programming
+skills, dynamically changing standards and creativity , as well as cooperation across various and
+numerous fields are considered crucial. The Witcher may serve as a very good example of this
+phenomenon — as a world-famous game, it has won more than 250 game of the year awards. It also
+became a tool for Polish diplomacy. More than 150 million people have played the games, read the
+books or watched the series set in the world of The Witcher.
+
+Poles also work on some of the projects that constitute key achievements and advances in the field of
+
+artificial intelligence. The following are examples of Al-based solutions that are known by all Al
+specialists in the world, and were created or co-created by Poles:
+
+11
+¢ OpenAl**) — one of the world's most important organisations dedicated to the development
+of artificial intelligence,
+
+e — PyTorch*®) — a neural network and numerical calculations library in the Python programming
+language (second most popular library in applications, first place in research),
+
+e FastText?® — an algorithm that allows machines to process natural languages and meaning of
+words. One of the algorithms created for inflected languages, including Polish,
+
+e Flo*”) — Application that detects gynaecological diseases with advanced algorithms,
+
+e Inception-v3"®) — deep neural network architecture, best network for image recognition in
+2016,
+
+e  AlphaStar?®) — a self-learning neural network that plays the StarCraft II real-time strategy game
+at the grandmaster level.
+
+To sum up, Poland has a great potential in the field of artificial intelligence thanks to:
+
+e high educational results in mathematics and natural sciences achieved by Polish students;
+
+e introducing programming classes for all students and at all stages of school education and
+focusing education on problem-solving and developing computational thinking;
+
+e international success in the field related to Al — developing modern video games;
+
+e creating internationally recognised and widely used solutions that make a key contribution to
+the development of Al in the world;
+
+e large number of companies and teams that are already active in the area of Al.
+
+14)
+
+15)
+
+16)
+
+17)
+
+18)
+
+19)
+
+https://openai.com/blog/authors/wojciech/
+Adam Paszke et al., PyTorch: An Imperative Style, High-Performance Deep Learning Library, 33rd Conference
+
+on Neural Information Processing Systems (NeurIPS 2019), Vancouver 2019,
+https://arxiv.org/abs/1912.01703.
+
+Piotr Bojanowski et al., Enriching Word Vectors with Subword Information, Transactions of the Association for
+Computational Linguistics, vol. 5, 2017, https://arxiv.org/abs/1607.04606.
+
+Cf. https://www.innovatorsunder35.com/the-list/kamila-staryga/.
+
+Christian Szegedy, [...], Zbigniew Wojna, Rethinking the Inception Architecture for Computer Vision, 2016 IEEE
+Conference on Computer Vision and _ Pattern Recognition (CVPR), Las Vegas 2016,
+https://arxiv.org/abs/1512.00567.
+
+Oriol Vinyals, Igor Babuschkin, Wojciech M. Czarnecki et al., Grandmaster level in StarCraft Il using multi-
+agent reinforcement learning, Nature 575, (2019), https://doi.org/10.1038/s41586-019-1724-z.
+
+12
+The potential of Al
+
+As of now, we are witnessing a worldwide race in connection with the Al. The competitiveness of
+economies leading the way in building high-tech solutions, including Al, closely correlates with their
+innovation level.
+
+Over the past few decades, we have been seeing a new reality being ushered in at a breakneck pace
+— one that is no longer based on natural resources, workforce and financial capital, but rather on
+knowledge and intangible assets. In this new economy, the nature of investments in intangible assets
+— digitalised information and processing models (data and algorithms), intellectual property
+(research, development, design) as well as economic competences (networking and cooperation,
+market understanding, training and business process re-engineering) — has changed fundamentally.
+Leading economies in the Transatlantic region, such as the USA, Canada, Sweden, the UK, Finland,
+France and the Netherlands, are already investing more in intangible capital than in physical assets; on
+average, this investment amounts to around 10 % of GDP annually.” Artificial intelligence will also
+enable radical new ways to access cultural heritage, while bringing about new quality of education.
+
+Artificial intelligence will increasingly use data and involve human talent — ushering in the end of the
+age of traditional means of production known since the industrial age.
+
+Poland's benefits from the development of Al hinge upon more than just the ability of companies and
+experts to deliver working solutions. A well-functioning market also needs numerous and informed
+customers that create demands for the products, which is particularly important with the list of Al-
+based solutions and applications growing with every subsequent month. Even today, it is hard to find
+a single industry that is not impacted by artificial intelligence.
+
+Poland is currently in a convenient position, since the country’s economy is based on industries that
+can reap maximum benefits from implementing artificial intelligence. Priority sectors include:
+
+e public administration;
+
+e construction (in particular smart buildings);
+e cybersecurity;
+
+e energy;
+
+e retail and marketing;
+
+e healthcare;
+
+e industry;
+
+e agriculture;
+
+e transport and logistics.
+
+In the case of the priority economic sectors for Al, the benefits of its implementation constitute about
+2.65% of the total GDP.
+
+20) cf. J. J. Zygmuntowski, Kapitalizm sieci, Wydawnictwo RozRuch, Warsaw, 2020.
+
+13
+Potential benefit for the Polish GDP (in million PLN)
+
+18000 5
+@ Priority
+16000 - Commerce @ other
+14000 ~ @ Indicated
+Indust
+12.000 - i
+10000 - The total impact of the priority industries
+amounts to ca. 1.5% of the GDP
+8000 -
+
+C) Transport and logistics
+6000 5 Professional services
+
+Real estate
+
+Banks and insurance
+4000 - Construction
+r Energy Healthcare
+100 ae ..
+0 - Culture and Educétion » periculture
+
+entertainment Public administration Mining
+1 1 1 T 1 1 1 T 1
+
+1 2 3 4 5 6 7 8 9 10 11
+
+Estimated implementation difficulty (1-10)
+
+Figure 2. Potential benefits for Polish GDP stemming from Al implementation.
+
+Source: Group 2 at the MoDA, Finansowanie badan i rozwoju, Zatozenia strategii Al w Polsce, Warsaw, 2018
+
+Artificial intelligence combined with automation will have a big impact on the job market as a whole:
+
+e it is estimated that for 100 existing jobs, 130 new ones will be created”;
+
+e by 2030, as much as 49% of working time in Poland can be automated using already existing
+technologies. On the one hand, this represents an opportunity to boost productivity; on the other,
+it poses challenges, particularly for the education system for young people and adults, in terms of
+adapting workers and their skills to the new labour market and developing appropriate tools to
+combat technological unemployment”);
+
+e the use of Al-based solutions may lead to a decline in employment in some sectors in the short-
+term perspective, while in the long-term perspective it can increase total employment rate, as well
+as job quality (leading to the creation of higher quality jobs)??).
+
+21) Gartner Research, Predicts 2018: Al and the future of work, November 2017,
+https://www.gartner.com/en/documents/3833572/predicts-2018-ai-and-the-future-of-work.
+
+22) Ibid.
+
+23) European Commission Report, Michel Servoz, Future of Work? Work of the Future, April 2019
+
+https://ec.europa.eu/digital-single-market/en/news/future-work-work-future.
+
+14
+Among the important factors that impact the potential of Poland in the context of creating Al-based
+solutions, the following circumstances are particularly evident:
+
+e the Polish economy is strongly dependent on the flow of electronic data (46% of its GDP)**). This
+fosters the creation of algorithms that process data and generate added value for international
+data processing value chains;
+
+© according to the Global Creativity Index,”*) the creative class in Poland encompasses more than 33
+percent of its population. That is more than in the USA, Spain, and even Japan, and comparable to
+Italy or Israel. This potential can be used in the possible Al research and applications;
+
+e high quality of school education — PISA study results place Poland at the level of countries in
+Northern Europe. We have over 110,000 STEM graduates every year — Poland ranks 4th in the EU
+in that regard, alongside Northern European countries.”
+
+Al funding sources
+
+The global leaders in spending on Al-based solutions are the United States, China, France and the
+United Kingdom. China — as one of the first countries in the world — announced its Al strategy called
+Next Generation Artificial Intelligence Development Plan back in July 2017. An important part of
+China’s plan was to invest in local start-ups, with more than $1 billion earmarked for this purpose over
+the course of two years, focusing mostly on healthcare solutions.2” France announced its strategy in
+March 2018, entitled A/ for Humanity. |ts objective — which saw €1.5 billion earmarked for it — is to
+make France a world leader in artificial intelligence. The French strategy envisions focusing on four key
+areas — healthcare, environment, transport and defence. In the US and the UK, private companies
+remain the main investors in Al-based solutions.
+
+In Poland, due to the small number of large private enterprises, the involvement of the public sector,
+as well as the largest state-owned companies in financing Al projects is necessary. Table 1 below shows
+the main public programmes supporting the development of innovation and innovative enterprises,
+which also enable financing projects related to the development and implementation of Al-based
+solutions.
+
+24) Report prepared for the Ministry of Digital Affairs: Grzegorz Koloch et al., Intensywnosé wykorzystania danych
+
+w gospodarce a jej rozwoj — analiza diagnostyczna, Warsaw, 2017.
+25) Table — Creative Class Share 2015 (item33); http://creativeclassgroup.com/_wp/wp-
+content/uploads/2019/11/Global-Creativity-Index-2015.pdf.
+https://www.oecd.org/pisa/publications/pisa-2018-results.htm
+27) https://www.arp.pl/__data/assets/pdf_file/0008/89918/ Raport_ARP_druk po stronie_calosc.pdf
+
+26)
+
+15
+Table 1. List of programmes financing implementation and development of innovative solutions in Poland
+
+Financing Programme/proj | Short description of Programme/project/initiati_ | Available
+organisation ect/initiative programme/project/initiative | ve funds
+name (inM
+addressees
+PLN)
+
+National Fund Nowa Energia The programme is designed to | Entrepreneurs, local 2,50078)
+for (New Energy) support entrepreneurs and government bodies and
+Environmental local government bodies in entities providing public
+Protection activities aimed at services, implementing
+and Water implementing innovative tasks of local government
+Management technologies in the energy bodies.
+
+sector, comprising "Smart
+
+Cities for Growth" and "Self-
+
+Sufficient Energy Clusters."
+NCBIR — Szybka Sciezka The competition is aimed at Entrepreneurs, consortia of | 1,200
+National Centre | (Fast Track) industrial research and/or enterprises, scientific and
+for Research 1/1.1.1/2020 experimental development industrial consortia.
+and projects that result in the
+Development development of an innovative
+
+solution that can be
+
+implemented in businesses
+
+and companies.
+NCBIR — INFOSTRATEG The aim of the INFOSTRATEG Enterprises, academic 840
+National Centre | Programme programme is to develop entities, public
+for Research Polish research potential in administration bodies.
+and solving selected machine
+Development learning problems that
+
+provide opportunities for
+
+development on a larger scale.
+NCBIR — BRidge Alfa (1.3.1 | The programme supports the Project teams and/or 400
+National Centre | SG OP) implementation of ideas at young technology
+for Research the seed stage, when the risk companies that have an
+and of investment failure is the innovative idea and need
+Development highest, but can be verified at | funding.
+
+a relatively low cost.
+NCBIR — BRIdge VC: PFR Funds launched by the PFR New technology 110
+
+National Centre
+for Research
+and
+Development
+
+NCBR CVC.
+SpeedUp Energy
+Innovation and
+
+NCBR CVC Fund of Funds
+invest in technology
+
+companies in the growth
+and/or expansion phase.
+
+companies.
+
+28) Including the budget of the areas
+
+(currently in preparation).
+
+"Smart Cities for Growth" and "Se
+
+16
+
+f-Sufficient Energy Clusters" — 600
+
+EEC Magenta
+funds
+
+NCBIR — LIDER The main objective of the Young scientists. 100
+National Centre programme is to enhance the
+for Research competencies of young
+and scientists concerning
+Development independent planning,
+management and leadership
+of scientific projects whose
+results can be implemented in
+the economy.
+NCBIR — Measure 4.1 of The competition is aimed at Companies, scientific and 150
+National Centre | the SG OP industrial research and/or industrial consortia.
+for Research "Scientific experimental development
+and research and projects that result in the
+Development development development of an innovative
+works" solution. Under KIS (in the
+Application case of Al — KIS 10).
+projects
+2/4.1.4/2020
+NCBIR — BRIdge VC - TDJ Polish-Israeli Venture Capital Start-ups 40
+National Centre | Pitango Ventures | fund focused on investments
+for Research fund in technology start-ups.
+and
+Development
+Polish Agency EPOP 1.1.2 The aim of the programme is Small businesses that have | 300
+for Enterprise Development of to finance the development of | completed the acceleration
+Development start-ups in start-ups in the initial phase of | phase and have been
+
+Eastern Poland
+
+their activity, as well as to
+launch their products on the
+domestic or international
+markets and systematically
+increase their sales.
+
+recommended for further
+growth.
+
+17
+
+Polish Agency SG OP Measure The aim of the measure is to Technology accelerators. 133
+for Enterprise 2.5 Acceleration increase the involvement of
+Development programmes large and medium-sized
+enterprises in the
+development of start-ups by
+using their own financial,
+human and technical
+resources in the acceleration
+process, enabling them to gain
+experience and create a legal
+framework for such
+cooperation.
+Polish Agency SG OP Measure The aim of the competition is International start-ups 30
+for Enterprise 2.4.1 Poland Prize | to encourage international
+Development Pilot start-ups to do business in
+Poland.
+Polish Agency SG OP Measure The aim of this pilot project is | Entrepreneurs and local 5
+for Enterprise 2.4.1 GovTech to improve the competencies | government bodies.
+Development inno_LAB Pilot of local government bodies in
+the field of innovation
+implementation, in particular
+their use of technical dialogue
+and the competitive selection
+processes specified in the
+Public Procurement Law.
+Polish Agency Norwegian The aim of the programme is Small and Medium-sized 79
+for Enterprise Financial to develop and market new or | Enterprises, Micro-
+Development Mechanism 2014- | significantly improved companies
+2021, Welfare products and services based
+technology on modern technologies
+scheme; which will improve the quality
+of life of the most vulnerable
+groups in society, in particular
+by responding to the needs of
+the elderly and improving
+their quality of life.
+Office of the Innovative The Innovative Applications of | Students of Al-related 81
+Minister in Applications of Digital Technologies Academy | majors, universities.
+charge of digital | Digital project comprises a series of
+affairs and Technologies activities aimed at supporting
+computerisation | Academy (Al the education of the second-
+Tech) level and top-level
+
+18
+
+professionals in artificial
+intelligence, machine learning
+and cybersecurity. Project
+submitted for co-financing
+under DP OP Measure 3.2.
+
+Ministry of Doktorat The programme supports Entrepreneurs and PhD 47
+Education and wdrozeniowy Il— | scientific activities concerning | students.
+Science Sztuczna the use of artificial intelligence
+Inteligencja in technological or social
+(Implementation | processes, including those
+PhD II — Artificial | related to cybersecurity.
+Intelligence)
+Polish PEFR Starter FIZ, The programme includes Enterprises, start-ups and ca. 2,500
+Development PEFR Biznes FIZ, venture capital support established companies.
+Fund PFR Otwarte investing in new technologies
+Innowacje FIZ, at both early and later stages.
+PFR KOFFI FIZ,
+PFR NCBR CVC
+GovTech Polska | GovTech Polska Competitions organised as Companies. 145 for
+competitions part of the GovTech Polska the entire
+programme connect the most program
+innovative private companies me
+with the public sector. The
+presented solutions, financed
+from funds allocated for
+competitions, support the
+modernisation of public
+administration with the help
+of innovative technologies.
+Fundacja - The aim of the Future Industry | Companies. 2079)
+Platforma Platform Foundation is to
+Przemystu foster the growing
+Przysztosci competitiveness of
+(Future Industry entrepreneurs and their
+Platform development towards Industry
+
+Foundation)
+
+4.0 solutions. This includes
+supporting their digital
+transformation in the areas of
+processes, products and
+business models using the
+latest developments in
+
+29) Foundation's annual operating budget.
+
+19
+
+automation, artificial
+intelligence, ICT technologies,
+as well as machine-to-machine
+and human-to-machine
+communication solutions.
+
+Digital Ministerial The aim of the programme is Companies and public 30°)
+Innovation Hubs | programme for to identify potential Digital administration.
+(DIH) in Poland | 2019-2021 Innovation Hubs and
+. supplement their capacity,
+entitled .
+Ministry of “p 4.0” develop best practices and
+Economic rzemyst “. standardise services provided
+Development (“Industry 4.0”) by these hubs, as well as
+, rovide support support for
+Labour and provi upP . UpP
+entrepreneurs in the area of
+Technology product, service and
+organisational transformation
+with the help of innovative
+technological solutions.
+European Digital | Network of The aim of the Digital Europe Companies and public 470°
+
+Innovation Hubs
+(DIH)
+
+European
+Commission/Mi
+nistry of
+Economic
+Development,
+Labour and
+Technology
+
+European Digital
+Innovation Hubs
+
+Programme established by the
+European Union for the years
+2021-2027 is to develop digital
+infrastructure and to increase
+the level of use of digital
+technologies in public
+administration and the private
+sector in the Member States,
+focusing in particular on small
+and medium-sized enterprises
+(SMEs). The main objective is
+to create a network of
+European Digital Innovation
+Hubs. to support the digital
+transformation of public
+administrations and
+enterprises.
+
+administration.
+
+The above-mentioned tools, while already serving the development of Al in Poland, will be periodically
+evaluated by the funding institution and the Al Policy Task Force at the Committee of the Council of
+Ministers for Digital Affairs in terms of their alignment with the Al Policy, including their integration
+with the specifics of the Polish market for Al-based solutions and sufficient consideration of Al
+
+30) Programme budget for 2019-2020.
+
+31) Estimated budget for 2021-2027 (EC funds and Polish contribution).
+
+20
+
+investments in the fund allocation. Thanks to dialogue with the market representatives and social
+organisations, some of them may be redesigned to better support:
+
+1) investment in human capital — competences of managers and executives, experts and other
+employees who work with Al-based solutions, as well as preventing the outflow of human capital
+and the generated innovations;
+
+2) acquisition of suitable hardware and software, including tools used for the digitalisation of
+production and business processes;
+
+3) research and development investments;
+4) transfer of research results into production environments;
+5) investment in strategic infrastructure projects;
+
+6) creation and sharing data and software under open licenses, as well as making products for the
+development of Al in Poland available free of charge;
+
+7) keeping Polish Al talent in the Polish Al ecosystem.
+
+In addition to domestic funds, Poland intends to promote an ambitious approach to funding Al
+development internationally.
+
+This approach will be reflected in Poland’s active suggestions to include Al funding in particular in the
+structure of the European Union's Multiannual Financial Framework for 2021-2027. To this end, Poland
+will push for the inclusion of separate instruments supporting activities in the areas of Al research and
+implementation within the framework of the:
+
+e Cohesion Fund,
+e European Regional Development Fund,
+e European Social Fund Plus,
+as well as programmes, such as:
+e Digital Europe Programme (DEP);
+e Horizon Europe;
+e Connecting Europe Facility in the area of telecommunications (CEF Telecom).
+
+Poland also supports the establishment of separate and dedicated financial support mechanisms for
+Al development by individual Member States. At the same time, it claims that the funds should be
+distributed proportionally, according to the size of a country's economy, so as to maximise the number
+of beneficiaries and ensure sustainable development in the EU.
+
+21
+ecco
+
+It always seems impossible
+
+until it’s done.
+Nelson Mandela
+
+22
+1. Al and society
+
+Artificial intelligence is redefining many professions due to process optimisation and automation, and
+as a result machines replace humans in doing standard and repeatable tasks on an unprecedented
+scale. This risks aggravating problems in socially and economically excluded regions, increasing
+unemployment, as well as exacerbating various forms of inequality and discrimination. The effects of
+automation and process optimisation are likely to affect different populations in various ways, and
+their impact will be not only economic but also social and political in nature.
+
+One of the features of automation is that it replaces humans in doing tedious, repetitive and difficult
+tasks. It is also a way to compensate for labour shortages due to unfavourable demographic situation
+in developed countries. Therefore, it highlights the need to support the development of workers
+towards performing more creative work and to get the employees working at the occupations at risk
+for upcoming new challenges.
+
+The ongoing social changes should be analysed using the potential of scientific methods for modelling
+social processes.
+
+In order to involve the society as a whole in the creation of new professions in a data-based economy,
+the state is responsible for creating proper conditions for people at risk of losing their jobs due to the
+implementation of Al to gain new skills in fields compatible with market trends. Preparing for these
+changes will also require changes in the legal framework. The issues of Al-related skill development
+and the use of Al-based tools in educational processes are the key issues of the Integrated Skills
+Strategy 2030 in Poland, which is currently undergoing development.
+
+In order to develop and fully exploit the potential of artificial intelligence, it is first and foremost
+necessary to respond to technological developments in a flexible manner by establishing R&D-—friendly
+legal framework, creating new economic models, removing obstacles and improving the readiness of
+the legal system for market changes. Poland also needs to ensure its ability to retain a highly-
+specialised Al workforce and attract experts from abroad — entrepreneurs, researchers, and workers
+— while maintaining a high level of protection for fundamental human rights. Thus, these changes
+should be made in line with the European approach to human-centric and trustworthy artificial
+intelligence, which enables the broadest possible use and access to Al-based solutions, as well as
+reaping their benefits, while protecting human rights at the highest possible level. Therefore, these
+changes should be implemented in line with the European approach to trustworthy human-centric
+artificial intelligence, which is to create an ethical framework and recommendations for Al policy and
+investment. In a globally competitive environment, this enables making the most of Al opportunities,
+while mitigating social, political and economic risks potentially brought about by the use of Al. One of
+the elements of this approach includes providing access to Al-based solutions, including algorithm
+libraries, as well as access to the benefits stemming from the use of these technologies. International
+organisations such as the EU and the UN are working on ethical and regulatory frameworks concerning
+Al. These documents also cover the issue of mitigating social exclusion and avoiding inadvertent
+discrimination. Polish representatives should continue their participation in the work of these
+organisations and — if possible — intensify their work, pointing out the issues pertaining to human
+dignity and human rights, as well as practical ways of implementing these overarching values within
+the framework of technical and non-technical ethical rules dedicated to the evaluation of Al in terms
+
+23
+of meeting the requirements of trustworthiness and responsibility attributed to humans or their
+organisations, which may potentially have legal capacity.22)
+
+Strategic partners for Al and Society:
+
+1) Council of Ministers Committee for Digital Affairs;
+
+2) Office of the Minister in charge of digital affairs and computerisation;
+
+3) Ministry of Education and Science;
+
+4) Ministry of Funds and Regional Policy;
+
+5) Ministry of National Defence;
+
+6) Ministry of Family and Social Policy;
+
+7) Ministry of Agriculture and Rural Development;
+
+8) Ministry of Climate and Environment;
+
+9) Ministry of Culture and National Heritage;
+
+10) Ministry of State Assets;
+
+11) Statistics Poland;
+
+12) Social Security Administration (ZUS);
+
+13) Voivodeship authorities;
+)
+)
+
+14) Marshal’s offices;
+
+15) Non-governmental organisations (NGOs).
+
+Short-term objectives (until 2023)
+
+1. Effective prevention and mitigation of the negative consequences of the development of
+artificial intelligence for the labour market. Starting dialogue with the market in order to
+introduce protective measures, preceded by a socio-economic analysis. Tools:
+
+1) identifying which professions are potentially at risk of disappearing in the near future
+and preparing re-education programmes for workers;
+
+2) preparing and refining sectoral and thematic forecasts on a regular basis to assess
+potential risks and opportunities for job creation;
+
+3) preparing and updating analysis of the labour market risks associated with smart
+automation on a regular basis;
+
+4) methodical approach to monitoring the impact of technological change on the labour
+market by drafting reports and publishing the results;
+
+32) One example of testing the requirements of trustworthy artificial intelligence is ALTAI
+https://futurium.ec.europa.eu/en/european-ai-alliance/pages/altai-assessment-list-trustworthy-artificial-
+
+intelligence.
+
+24
+5) promoting informed career choices in line with the needs of the future market and
+economy;
+
+6) effective career counselling, coaching, education, targeted grants, loans or tax
+amortisation;
+
+7) preparing staff for new jobs related to the use of Al-based solutions;
+
+8) introducing changes in the legal framework concerning flexible forms of work and
+virtual working environment (remote work).
+
+2. Analysis of the ethical ramifications of Al implementation and the impact of Al systems on
+the sphere of human rights. Tools:
+
+1) support for Al ethics research through grants, competitions, and other forms of funding;
+
+2) assessing the societal impact of Al-based systems (in particular the impact on human
+rights and freedoms) and developing methods for their independent auditing, according
+a predefined manner and scope;
+
+3) supporting, preparing and consulting future regulations related to this scope —
+developed on a national and (where possible) EU level, as well as within other
+international organisations; monitoring emerging recommendations and regulations on
+Al ethics issued by the OECD, UN, EU and Council of Europe;
+
+4) supporting the principles of personal data processing stemming from the GDPR®) (in
+particular the principle of data minimisation), sound risk assessment for Al-enabled
+systems and the prevention of errors in their design (for example algorithmic bias),
+transparency, accountability and explainability of Al-enabled systems, in particular
+those that perform tasks in the public domain or affect the sphere of human rights and
+freedoms as part of the work on Al regulation;
+
+5) monitoring and moderating emerging OECD, UN, EU and Council of Europe
+recommendations or regulations on Al ethics and accountability in the Al life cycle;
+
+6) initiating research grants aimed at studying the transparency and accountability of Al
+algorithms, in particular in the context of public tasks and commercial purposes that
+involve significant impact on human beings.
+
+3. Ensuring security and building public trust and willingness to use Al-based solutions
+combined with democratising access to Al.
+
+Tools:
+
+1) promoting awareness of artificial intelligence and its impact on society through the
+media, including online media;
+
+2) combating misinformation and misrepresentation of Al, as well as opportunities and
+risks stemming from automation;
+
+3) implementing awareness-raising campaigns for the general public and companies
+concerning algorithms (in particular complex and learning algorithms), their operation,
+
+33) Or future regulations on personal data protection that will become part of the legal framework in Poland.
+
+25
+model applications, risks associated with algorithmic decision-making based on
+predicting human behaviour;
+
+4) supporting independent risk assessment tools for Al-based systems, including through
+company-oriented campaigns, incentive schemes and research grants;
+
+5) supporting the education of consumers (users) of Al-based systems, aimed at fostering
+understanding of their operation, critically assessing possible consequences of their use
+and being able to estimate individual risks;
+
+6) raising the competencies of officials connected with the use of Al tools in relations
+between the state and the citizens, including counteracting the risk of discrimination;
+
+7) fostering conditions conducive to attracting highly qualified human resources in the Al
+field;
+
+8) presenting the benefits of artificial intelligence to farmers, including establishment of
+model farms in Poland using Al-based solutions with the participation of agricultural
+advisory bodies;
+
+9) programmes and incentive schemes counteracting the outflow of qualified Al experts
+from Poland.
+
+4. Launching campaigns to prepare society for changes related to the adoption of a data-driven
+economy model (algorithmic economy). Tools:
+
+1) information campaigns on the opportunities offered by artificial intelligence and on
+how to deal with the emergence of new professions and changes in the ways of
+working (for example remote work);
+
+2) information campaigns on the opportunities offered by artificial intelligence for the
+state administration and state-owned companies;
+
+3) campaigns promoting interdisciplinary fields of study, online courses and individual
+education;
+
+5. Making Poland an attractive country for highly skilled Al experts and workforce. Tools:
+
+1) legal, technological and information facilities for domestic companies and third-
+country residents who want to run Al-based businesses in Poland;
+
+2) cooperation with leading academic centres in the world and promoting Poland as a
+place for professional growth in the field of Al;
+
+3) direct cooperation with the business on a periodic review of the existing facilities and
+incentives for attracting highly skilled Al experts to Poland.
+
+Medium-term objectives (until 2027)
+
+1. Analyse and eliminate legislative barriers and administrative burdens for artificial
+intelligence start-ups. Tools:
+
+1) creating conditions for increased labour market flexibility through appropriate
+changes in the legal framework and consultations with employers and trade unions;
+
+26
+2) developing new licence types for algorithms and ICT solutions enabling open use of Al
+technologies (created with public funding) by the public sector;
+
+3) updating the law to ensure access to data, including sensitive data (e.g. medical) and
+the conditions for functioning of trusted spaces for sharing this data, taking into
+account the protection of privacy and personal data;
+
+4) preparing and updating the legal system in terms of the opportunities concerning
+practical implementation of Al-based solutions, concerning not only algorithms, as
+well as data processing in the cloud with the use of edge computing, the use of the
+Internet of Things (loT) in the industrial context, public data collection, as well as
+citizen data security and industrial data sharing;
+
+5) preparing and updating the legal framework in terms of practical implementations of
+autonomous Al-enabled drones, which will be used in agriculture to inspect crops and
+the infrastructure;
+
+6) consultations with the academic, social and business circles in order to develop and
+update the directions of promotional activities, changes in the legal framework and
+activities aimed at eliminating legislative barriers and administrative burdens in the
+dynamically changing environment.
+
+2. Taking action in specific areas related to the development of artificial intelligence, in
+particular for efficient and easy access to data and its use by all economic actors, regardless
+of the size. Tools:
+
+1) promoting open data solutions, including through the development of the Digital
+Government Sandbox,” the Open Data portal,*°) digital repositories in the cultural
+sector, commercial and academic solutions based on open data, as well as piloting
+sectoral trusted data spaces;
+
+2) enabling access to high-speed infrastructure solutions - data centres (with GPUs) and
+broadband (based on 5G and newer technologies) for computing.
+
+3. Supporting programmes preparing society for changes brought about by the development
+of algorithmic economy in Poland. Tools:
+
+1) creation of new and aggregation of existing knowledge bases and educational
+materials in a one-stop shop for people retraining to join high-tech industries;
+
+2) continued expansion of the offer of courses, majors and interdisciplinary scientific and
+research programmes (including online and hybrid courses, which combine in-person
+learning with online education) organised in cooperation with representatives of the
+business environment and combined with elements of vocational guidance and
+building a network of industry contacts.
+
+4. Preventing unemployment and flexible job creation in the labour market for disadvantaged
+groups. Tools:
+
+34) https://cpa.gov.pl/store/
+35) http://dane.gov.pl
+
+27
+1) information, education and retraining programmes aimed at counteracting
+unemployment;
+
+2) training and retraining courses for workers in the most threatened professions,
+including encouraging the acquisition and development of skills in the field of modern
+technologies, through the development of market qualifications included in the
+Integrated Qualification System.
+
+Defining regular programmes for supporting artistic and creative activities in the area of Al.
+Tools:
+
+1) co-organising ongoing exhibitions of works created and co-created with the use of Al;
+2) regulating the issue of intellectual property of works created using Al;
+
+3) organising international contests for works created with the help of Al and support for
+Polish artists winning competitions organised abroad.
+
+Long-term goals
+
+1.
+2.
+
+Poland is one of the biggest beneficiaries of the data-driven economy (algorithmic economy).
+
+Poles are aware of the opportunities and threats brought about by the development of
+modern technologies and make career choices based on them, using a wide range of
+educational materials and dedicated curricula.
+
+Poland is among the top ten countries in the Al Readiness Index”).
+
+Poles foster a culture of lifelong learning and the ability to quickly re-skill, while the
+
+government policy curbs technological unemployment.
+
+Poles are prepared to consciously and critically use Al-based systems.
+
+Poles exposed to Al-based systems, especially in the public sphere, are aware of their rights
+and have access to mechanisms that protect them from system errors or other violations of
+their rights and freedoms.
+
+36) Cf, https://www.oxfordinsights.com/ai-readiness2019
+
+28
+You cannot create anything of value without a Iot of effort.
+
+To avoid effort is to fail as a civilisation.
+Wiadystaw Grabski in his book entitled "Dwa lata pracy u podstaw panstwowoSci naszej
+(1924-25)" (Two Years of Grassroots Work on our Statehood)
+
+29
+2. Al and innovative companies
+
+Poland’s prosperity depends on the growth of the Polish economy and the success of Polish companies.
+Al-based solutions are an opportunity that needs to be seized, if Poland wants to join the ranks of the
+world’s wealthiest countries. In order to pursue this objective, we will need to support the process of
+creating Polish Al-oriented companies, to use Al-based solutions in everyday life and to promote
+cooperation between private companies and the public sector in the area of research and pilot
+implementations. It is also crucial to reinforce the demand side (number of orders and projects) for Al-
+based solutions in the public sector, state-owned companies and the Polish Armed Forces.
+
+Today, Al-based systems can be found in many different applications - from smartphones, through
+CRM systems, all the way to the stock market. The widespread use of Al-based business applications
+include financial risk assessment, price optimisation, customer targeting and service customisation,
+medical diagnostics, recommendation systems and virtual assistants, among many others.
+
+In order to face the rapid growth of this technology and determine how best to exploit its potential
+and avoid risks, we should get ready to tackle specific tasks in advance.
+
+A good example of combining multiple Al-based solutions in one product are autonomous vehicles,
+also known as self-driving cars, which combine various sensors that receive signals from the
+environment, such as laser scanning, sonar, radar, GPS, odometer and inertia sensors. What is more,
+they feature machine vision technologies — one of the most well-known and widespread Al-based
+technologies in use today. Precision agriculture, on the other hand, already uses decision-making
+algorithms. Digital Farming systems, remote sensing, precise fertiliser application based on soil
+analysis and crops, real-time monitoring of crops and fertilisation evaluation make Agriculture 5.0 —
+taking care of the condition of individual plants — a reality.
+
+Artificial intelligence also has great potential for use in cinematography — in digital restoration,
+automatic film translation, preparing dubbing or matching film scores to individual scenes, as well as
+in quality assurance or editing. It also enables restoring footage from the last century back into
+circulation in order to make it more attractive for the audience, which leads to its increased use in the
+audio-visual and audio production chain various kinds of media, as well as in journalism.
+
+Another key benefit associated with Al is that Al-based systems used in autonomous transport can
+significantly lower the number of accidents, and — as a result — the number of fatalities. In healthcare,
+on the other hand, Al-based systems can ensure high-quality medical services, while optimising
+treatment time, cost and effectiveness. Al in healthcare also offers the possibility to use tools that
+predict epidemiological situations and detect abuse. Implementing simple robotics in businesses can
+lead to tangible savings and increased production efficiency. This allows humans to work on tasks that
+require skills that Al-based systems do not have, or where the systems can only support work done by
+human workers. The data-driven economy itself is thus contributing to the emergence of new
+products, services and — as a result — companies, while ushering in new competencies that employees
+can now learn.
+
+This is an opportunity for the Polish economy and our domestic companies, since it is much easier to
+compete with others in relatively new fields and areas. For historical reasons, there are not many
+global companies in Poland, which makes Al a true opportunity for all small and medium-sized
+
+30
+enterprises that want to grow. It is crucial for innovative companies that Poland is as open as possible
+to the implementation and use of Al-based solutions.
+
+Thanks to the broad range of possibilities concerning the use of Al-based systems — in the energy
+sector, EU external border protection, environmental protection, water retention, agriculture,
+healthcare and senior care, communication and housing infrastructure — Poland is the perfect place
+for piloting various solutions and programmes, as well as organisational models and forms of
+cooperation. Increasing the number of such pilot projects and reinforcing the demand side for Al-based
+solutions is one of the main goals of the Al Policy in this area.
+
+Strategic partners for Al and Innovative companies:
+1) Council of Ministers Committee for Digital Affairs;
+2) Ministry of State Assets;
+3) Office of the Minister in charge of digital affairs and computerisation;
+4) Ministry of Finance;
+5) Ministry of Funds and Regional Policy;
+6) Ministry of Climate and Environment;
+7) Ministry of National Defence;
+8) Ministry of Agriculture and Rural Development;
+9) Ministry of Economic Development, Labour and Technology;
+10) Ministry of Education and Science;
+11) Ministry of Health;
+12) Centre for eHealth;
+13) GovTech Polska Programme Team;
+14) sectoral organisations of entrepreneurs;
+15) Statistics Poland;
+16) NCBIR — National Centre for Research and Development;
+17) Polish Agency for Enterprise Development;
+18) Polish Investment and Trade Agency;
+19) Future Industry Platform;
+20) Polish Development Fund;
+)
+
+21) Social Security Administration (ZUS).
+
+Short-term objectives (until 2023)
+
+1. Increasing demand for Al-based solutions. Tools:
+
+31
+1) adding the requirement for Al-based solutions in the specifications of other strategic
+investments (or in their broadly-understood environment) financed from public funds
+— examples include restoring bus transport across Poland, the “Clean Air” Programme,
+Via Carpathia and Via Baltica, expansion of the gas pipeline network and others;
+
+2) strengthening the process of opening up public administration data that can be used
+for testing algorithms,?” supporting the development of open-source applications,
+providing user interfaces (e.g. API) and sharing solutions between public entities
+(shared services);
+
+3) creating incentives for non-state actors and cultural institutions to share data via
+trusted data spaces, such as data trusts or virtual data repositories, including
+incentives to provide libraries of algorithms for Al development;
+
+4) creating incentives for reciprocal sharing of access to data by entities that collect large
+volumes of various kinds of data;
+
+5) using Al-based solutions for continuous monitoring and improvement of the
+environment in Poland;
+
+2. Increasing the supply of Al-based solutions developed in Poland. Tools:
+
+1) launching new and developing existing financing mechanisms, for example in the form
+of loans guaranteed by the authorities for the development of innovative Al-based
+solutions, especially in agriculture (Smart Farming solutions), in cities (Smart City
+solutions), in rural areas (Smart Villages solutions), in energy sector (Smart Grid
+solutions), industry (smart factories), transport (solutions for the Central Airport
+programme) and for energy cooperatives;
+
+2) adapting the existing tax mechanisms for companies investing in innovative solutions
+to the needs of developers of Al-based technologies;
+
+3) providing opportunities for testing ground-based, water-based and airborne
+autonomous vehicles in designated zones (road sections, public areas, smaller towns,
+districts of larger cities) and under pre-defined conditions. These tests are intended to
+help determine the limits of legal liability for the algorithm developer, the vehicle
+maker and the person in control;
+
+4) continuous analysis of solutions applied abroad in order to support the establishment
+of modern high-tech companies, as well as their assessment in terms for their possible
+implementation in Poland.
+
+3. Increasing the number of Polish state-owned companies implementing Al projects.
+
+Tools:
+
+1) participation of the Ministry of State Assets in identifying companies that could
+develop Al potential;
+
+3”) https://dane.gov.pl
+
+32
+2)
+
+4)
+
+including in business documentation of the identified companies (e.g., corporate
+strategies) information related to the development of Al and the implementation of
+Al-based technologies in their operation;
+
+including expert positions, units, teams or functions dealing with the use and
+implementation of Al-based technologies in state-owned companies or capital groups,
+thus eventually building a knowledge and competence exchange network among
+state-owned companies.
+
+developing mechanisms that enable promoting and rewarding attitudes and activities
+aimed at developing and implementing Al-based solutions in state-owned companies.
+
+4. Increasing the use of new Al-based technologies by companies operating in Poland. Tools:
+
+1)
+
+2)
+
+standards and incentives for commercial institutions developed to foster open data,
+while respecting the principles of business confidentiality;
+
+special consideration for Al-related operations and transparent rules concerning the
+R&D tax relief, the innovation tax relief, the IP Box and other support instruments;
+
+supporting demand among companies through incentives in the form of support
+programmes for Al-based technologies;
+
+developing a system fostering efficient use of resources, taking into account the time
+and decision-making mechanisms to ensure the commercialisation of Al-based
+technologies in Poland.
+
+5. Identify talent, especially teams that develop innovative Al-based solutions.
+
+Tools:
+
+1)
+
+organisation of competitions promoting teamwork (e.g. hackathons, service jams,
+game jams) by public sector entities within the framework of GovTech Polska
+programme or on the basis of standards developed by the programme;
+
+increasing defence and security sector spending on Al, providing start-ups, SMEs and
+university teams with more opportunities to participate in public procurement
+processes;
+
+financial grants and bank guarantees programmes for engineering teams that win
+international competitions, wish to develop new products or systems and have a high
+potential for implementing innovative solutions;
+
+facilitating the setting up and running businesses (“virtualisation of work”), based on
+the example of Estonia and other countries. Introducing incentives for establishing
+innovative companies by foreign entities in Poland and for moving their operations to
+Poland;
+
+promoting the use of Al-based technologies in creative disciplines, including Al-
+created computer games, architectural solutions, audio-visual and entertainment
+production, etc.
+
+6. Creating knowledge bases and developing good practices for implementing and using Al-
+based solutions. Tools:
+
+33
+1)
+
+2)
+
+providing Polish managers and executives with a source of reliable knowledge on how
+to adapt their companies to the requirements of a data-driven economy;
+
+launching financial gratification mechanisms for companies that share their
+knowledge and experience with the Future Industry Platform and other public entities.
+
+Medium-term objectives (until 2027)
+
+1.
+
+2.
+
+3.
+
+Increase the number of companies providing Al-based solutions, including those listed on the
+Warsaw Stock Exchange. Tools:
+
+1)
+
+7)
+
+eliminating legal barriers hindering the development of Al-based technologies by
+regularly monitoring existing legal framework concerning supporting investments in
+technology companies and funds supporting investments in technology companies in
+terms of their applicability to Al companies;
+
+continuing investment fund creation programmes and further development of the
+Polish venture capital ecosystem;
+
+promoting technological change to data-driven enterprises. Developing mechanisms
+for implementing data strategies in enterprises and promoting these solutions;
+
+soliciting the development of international projects dedicated to the development of
+Al-based products to foster experience exchange with international enterprises;
+
+building research laboratories and proving grounds — physical and in the cloud —
+reflecting actual facilities, where Al-based solutions could be developed and tested on
+mapped real data, and then implemented in real-world environments;
+
+developing a simplified mechanism of permanent or temporary (e.g. participation in
+conferences) attraction of foreign talent to Poland for Al-related scientific or
+commercial purposes;
+
+promoting the Polish Al ecosystem abroad to increase the export potential of Polish
+companies and solutions.
+
+Poland perceived as a leader in implementation projects and scientific research in agri-food
+sector. Tools:
+
+1)
+
+2)
+
+ongoing mapping of the impact and use of modern technologies in the agri-food
+sector;
+
+supporting projects concerning the collection of data and its use to improve
+agricultural efficiency;
+
+Poland perceived internationally as a developer of Al systems. Tools:
+
+1)
+
+2)
+
+increasing the effectiveness of the promotion of Polish Al companies by Polish
+diplomatic posts, as well as the Polish Investment and Trade Agency;
+
+increasing the participation of Polish experts from the Al sector in expert meetings, at
+least the key ones, where strategies and future solutions are worked out;
+
+34
+4.
+
+3) ensuring participation of representatives of Polish Al companies in government
+delegations, especially to countries where the public sector is dominant (the majority
+of the Middle East region, Africa and Asia) in order to promote solutions developed by
+these companies and expand international cooperation in the field of artificial
+intelligence.
+
+Increasing the competencies of Polish managers in the field of Al. Tools:
+
+1) new mechanisms enabling financing training courses for managerial staff and
+executives in the best Polish and global Al centres, focused on change management,
+adapting new technologies and support for employee retraining;
+
+2) developing a training programme for members of management board in companies,
+cooperatives and entities, based on existing government and EU programmes, aimed
+at supporting the participation in fairs and international expansion financially.
+
+Long-term goals
+
+1.
+2.
+
+Poland has at least one globally recognised Polish company that operates in the field of Al.
+
+There are Polish technology companies listed simultaneously on the Warsaw Stock Exchange
+and one of the world's largest stock indices.
+
+The Polish economy has a significant level of venture capital investment from both private and
+public funds, covering all stages of small business growth.
+
+Poland is among the top 25% of economies producing innovative Al-based solutions.
+
+35
+Science lies at the heart of all developments
+
+that make human life easier and reduce suffering.
+Marie Curie-Sktodowska
+
+36
+3. Al and science
+
+Artificial Intelligence — just like other future technologies — is inextricably linked with the world of
+science, which is constantly discovering new fields of application for this technology, while also striving
+to embed it into ethical, sociological and cultural frameworks. In the future, the ability to educate
+competent Polish scientists will largely determine the position of Poland in the global technological
+race. In recent years, there has been a marked increase in interest in Al topics among students, which
+can be seen in their participation in numerous competitions concerning algorithms and Al. At the same
+time, the interest has also been growing among academic staff, which is reflected in the number of
+publications and dedicated research programmes. The annual national computer science competition
+also includes the field of artificial intelligence. Nevertheless, all Polish universities lag far behind the
+top organisations in terms of any research criteria.2®) In the case of Al, Poland as a country, Polish
+universities as well as companies trail behind developed countries.” This is a phenomenon typical for
+the CEE region.”
+
+The objectives of any activities concerning Al and science concern:
+
+e promoting the use of Al as a tool supporting research work in all fields of science;
+
+e providing adequate support for students (including PhD candidates) interested in pursuing Al-
+related research through scholarships, grants, tuition reimbursement, assistance in publishing
+their academic output and other means deemed appropriate by the entities of the Al
+ecosystem in Poland;
+
+e turning Poland into a centre that attracts expert scientific staff and students from other
+countries;
+
+e aligning academic teaching methods with the needs of Al development;
+
+e increasing the degree of commercialisation of Al research results and development of
+cooperation between academia and business.
+
+Treating this aspect as a cross-sectional one is crucial for the implementation of the Al Policy. This
+needs to take into account not only STEM, but also the humanities and social sciences, which are
+important for defining the subsequent framework for the use of Al in social and economic life, and in
+particular its ethical framework. This is the only way to ensure that the use of Al translates into
+increased quality of life consistent with the public interest and the well-being of the society. At the
+same time, however, the greatest emphasis should be placed on the practical application of research
+
+38) World University Ranking List
+https://perspektywy.pl/portal/index.php?option=com_content&view=article&id=13:swiatowy-ranking-
+
+uniwersytetow&catid=9&ltemid=119.
+
+39) Gleb Chuvpilo, Al Research Rankings 2019: Insights from NeurIPS and ICML, Leading Al Conferences, 2019,
+https://medium.com/@chuvpilo/ai-research-rankings-2019-insights-from-neurips-and-icml-
+leading-ai-conferences-ee6953152c1a.
+
+40) Razvan Pascanu, Viorica Patraucean, Doina Precup, Eastern European Machine Learning Summer School
+
+2019 —- Summary, https://www.eeml.eu/resources.
+
+37
+results, technology transfer and its commercialisation. Only ensuring smooth cooperation between
+academia and business will enable the implementation of the Al Policy.
+
+Strategic partners for Al and science:
+1) Council of Ministers Committee for Digital Affairs;
+2) Office of the Minister in charge of digital affairs and computerisation;
+3) Ministry of Education and Science;
+4) Ministry of Finance;
+5) Ministry of Funds and Regional Policy;
+6) Ministry of National Defence;
+7) Ministry of Family and Social Policy;
+8) Ministry of Health;
+9) Medical Research Agency;
+10) National Science Centre;
+11) Social Security Administration (ZUS);
+12) Foundation for Polish Science;
+13) Research and Academic Computer Network;
+14) Universities, institutes and other academic entities conducting research in the field of Al;
+
+15) Copernicus Science Centre.
+
+Short-term objectives (until 2023)
+
+1. Disseminating practical knowledge concerning Al at the undergraduate and graduate level in
+teaching activities and research.
+
+Tools:
+
+1) introducing classes increasing the awareness of the potential applications, risks and
+opportunities connected with new technologies, including artificial intelligence, in
+everyday life;
+
+2) training cognitive approach, computational thinking and creative problem solving
+from different fields with conscious use of methods and tools derived from computer
+science and scientific achievements of Al application fields. The inclusion of Al topics
+in curricula should be encouraged, including practical workshops on building Al-based
+models and performing data analyses, as well as topics on assessing the impact of Al
+on humans, society, the economy, the environment, and international relations;
+
+3) introducing mechanisms encouraging teachers to collaborate with experts from the
+private sector in order to obtain expert support in the preparation of teaching
+
+38
+materials and implementation of the teaching process, including through in-class
+support (after meeting the requirements provided for in the law). Teaching university-
+level courses concerning various aspects of practical use of Al — in the faculties of
+humanities, social studies and art, where artificial intelligence becomes a tool for
+analysis and creation; as well as in technical faculties, where the benefits of using Al-
+based tools should be pointed out, thus creating a foundation for generating future
+demand for Al-based products and solutions;
+
+supporting the creation of interdisciplinary university courses, reflecting the entire
+spectrum of knowledge necessary to achieve success in the field of new technologies,
+as well as introducing more flexible admission criteria, taking into account the skill set
+aligned with the needs of modern society and knowledge-based economy;
+
+promoting individual course of studies or flexible STEAM ( science, technology,
+engineering, arts, mathematics) courses at universities.
+
+2. Development of projects tailored to Polish problems and challenges, such as machine
+processing of the Polish language and its translation into foreign languages, through research
+cooperation between Slavic language-speaking countries and involvement of Polish speakers
+at foreign universities. Tools:
+
+1)
+
+grants and scholarships of the Foundation for Polish Science, the National Science
+Centre and the National Centre for Research and Development for projects related to
+Polish language processing based on world-leading algorithms;
+
+eliminating legal barriers to the exploration of Polish language text corpora under
+copyright protection;
+
+rewarding projects that make architectures and trained models and training datasets
+available for widespread use.
+
+Medium-term objectives (until 2027)
+
+1. Establishing ties between academia and business. Tools:
+
+1)
+
+2)
+3)
+
+facilitating financing the activities of universities and research institutes in the field of
+Al and other new technologies by supporting legislative changes and introducing tax
+breaks for entrepreneurs;
+
+increasing the number of implementation PhDs in the area of Al applications”;
+
+creating better working environment for university professors, who have practical
+experience in the field of Al.
+
+2. Increasing the attractiveness of Polish universities for the most talented students and academic
+staff through, among other things, a more flexible course plan and openness towards
+interdisciplinary classes in Al and new technologies. Tools:
+
+40) https://www.gov.p|/web/nauka/doktoraty-wdrozeniowe
+
+39
+increasing the number of practical classes in the form of new technology workshops;
+
+establishing programmes supporting combining teaching and research activities with
+editorial work for editors of bulletins and scientific journals in the field of Al;
+
+establishing a grant system for teaching projects, assuming that all teaching materials
+will be made available under an open licence.
+
+3. Internationalisation of higher education and doctoral training with two-way movement of
+doctoral students between countries. Tools:
+
+1)
+
+2)
+
+3)
+
+funding for graduate studies and doctoral schools (with conference and research
+activities) at a competitive level, thus attracting top talent;
+
+funding for graduate studies and doctoral schools for developing teaching
+methodologies concerning new technologies, including Al;
+
+grants for open-source Al-based projects (research and practical ones), increasing the
+visibility of Poland as a place of Al development in the world.
+
+4. Increasing visibility of research in international markets. Tools:
+
+1)
+
+2)
+
+3)
+
+increasing the requirements concerning published papers and conference
+participation in international teams;
+
+encouraging universities to create special units (chairs, departments, etc.) for artificial
+intelligence and related disciplines;
+
+supporting and promoting interdisciplinary research and education in Al.
+
+Long-term goals
+
+1. Polish universities are internationally competitive in terms of Al-related educational offering.
+
+2. Polish scientists are often nominated for the most important industry awards, including the
+Turing Prize. The number of publications in leading journals and conferences (e.g. Conference
+on Neural Information Processing Systems, Conference on Computer Vision and Pattern
+Recognition, Association for Computational Linguistics conferences) in the field of Al exceeds
+the OECD average.
+
+3. The number of patents on artificial intelligence obtained by Polish inventors exceeds the OECD
+
+average.
+
+40
+There is no doubt that the knowledge of logic is
+particularly important to virtually anyone who
+
+wants to think properly.
+Alfred Tarski
+
+41
+4. Al and education
+
+The key resource, which has a significant impact on the development of artificial intelligence is human
+capital in the form of an educated population — this concerns primarily mathematics, logic, technical
+and natural sciences, as well as creative thinking and teamwork. Poland manages to achieve some of
+the best results in Europe and ranks among the world's best in the global school knowledge study at
+the secondary school level (PISA 2018). At the same time, Polish school and university students
+regularly win international programming competitions, while graduates of the best mathematics and
+computer science faculties find employment in the most innovative international companies. This is
+an asset that we want to boost even more. The objectives of any activities concerning Al and education
+concern:
+
+e strengthening Poland's high position in terms of the achievements of its secondary school
+students;
+
+e developing curricula for all stages of education, taking into account the additional potential of
+Al, as well as other new technologies for learning and the related challenges, including the
+need to review the core curriculum and revise it if necessary in the medium term perspective;
+
+e introducing modern Al curricula in schools and educational institutions at all stages of
+education;
+
+e equalising educational opportunities in the field of Al and new technologies, while providing
+students with a high level of education regardless of where they live;
+
+e ensuring high availability of educational tools in Poland, including online tools, enabling all
+people who want to get educated in the field of Al to gain knowledge, both theoretical and
+practical.
+
+If we strive to create the right conditions for Poland to develop by deploying Al-based solutions on a
+large scale, retaining talent in the country is absolutely crucial. In a global and open world, the only
+way to achieve this is to create attractive, challenging and well-paid jobs. Talent will stay in Poland if
+Poland remains competitive. This will only happen if adequate resources are invested in the
+development of new technologies. The aim of the Al Policy is to convince the top talent to stay in
+Poland, while also promoting working in Poland as an attractive choice among top talent from other
+countries.
+
+Strategic partners for Al and education:
+1) Council of Ministers Committee for Digital Affairs;
+2) Office of the Minister in charge of digital affairs and computerisation;
+3) Ministry of Education and Science;
+4) Ministry of Finance;
+5) Ministry of National Defence;
+
+6) Ministry of Family and Social Policy;
+
+42
+7) universities, institutes and other research centres conducting research projects in the field of
+
+Al;
+
+8) Social Security Administration (ZUS);
+
+9) Polish Development Fund (Central Technology House);
+
+Short-term objectives (until 2023)
+
+2. Dissemination of practical knowledge of artificial intelligence at all stages of education.
+
+Tools:
+
+1)
+
+introducing classes that raise awareness of applications, risks and opportunities
+connected with using artificial intelligence in everyday life, the use of basic Al-based
+tools and solutions in the teaching process at early education schools;
+
+developing a digital education strategy that incorporates the use of Al-based tools and
+solutions in the learning process, while taking into account Al ethics;
+
+developing methods of shaping skills and competences in algorithmic and
+computational thinking;
+
+boosting the role of statistics and other disciplines used to develop Al-based solutions
+within mathematics curricula at all stages of education;
+
+introducing mechanisms encouraging teachers to collaborate with experts from the
+private sector in order to obtain expert support in the preparation of teaching
+materials and implementation of the teaching process, including through in-class
+support (after meeting the requirements provided for in the law);
+
+intensification of the use of tools and embedded systems in education, accompanied
+with training for teachers in their proper use in the teaching process;
+
+pilot introduction of Python”) programming language in computer science classes
+with an interactive environment such as Jupyter Notebook, due to its educational and
+practical benefits; frequently updating the catalogue of languages and tools used in
+education, based on the market requirements;
+
+introducing commonly used and applied machine learning and neural network
+packages such as Scikit-learn, PyTorch or TensorFlow with Keras interface**) in primary
+and secondary schools;
+
+developing mechanisms to support teachers and educational staff in improving their
+qualifications and skills in the area of Al and modern technologies, along with tools for
+rewarding students and their teachers for outstanding achievements in these areas;
+
+42) Cf, https://pl.wikipedia.org/wiki/Python
+
+43) Piotr Migdal, Rafat Jakubanis, Keras or PyTorch as your first deep learning framework,
+
+https://deepsense.ai/keras-or-pytorch/.
+
+43
+10) developing standards and best practices for the use of Al-based solutions and
+
+embedded systems in education so that they are consistent with Al ethics and protect
+the rights of participants in the education system.
+
+3. Support for the development of the most talented school and university students in Poland.
+
+Tools:
+
+1)
+
+launching and developing projects supporting the identification and development of
+young IT and programming talent in Poland, including students proficient in Quantum
+Computing Language - QCL, as well as talented individuals from disciplines useful in
+building Al-based solutions (e.g., mathematics, logic, philosophy);
+
+funding scholarships and public support for entities that enable Polish students to
+participate in research work at universities™);
+
+supporting patronages over secondary schools and individual classes by academic and
+research institutions, as well as innovative companies, providing additional teaching
+tools and other ways to support the learning process, ensuring more attractive
+working conditions for academic teachers, in particular for young scientists;
+
+supporting students participating in international competitions in Al and other
+emerging technologies financially.
+
+4. Development of educational materials about Al for different age and professional groups.
+
+Tools:
+
+1)
+
+2)
+
+offering micro-grants to make Al teaching materials freely available under an open
+license;
+
+organising competitions, service jams and hackathons focused on creating materials
+that can be used in teaching and examples of Al applications.
+
+5. Using the National Educational Network**) in interactive education on Al-based solutions and
+techniques.
+
+Tools:
+
+1)
+
+promoting new educational approaches and curricula that incorporate the
+development of skills, including digital skills, in particular concerning algorithms and
+programming;
+
+enabling students at all stages of education to use advanced software tools for
+developing creative competencies, for example by using remote desktop technology;
+supporting knowledge and experience exchange between educational institutions
+using modern technologies by promoting good practices using e-learning platforms
+designed for this purpose (e.g. in the Massive Open Online Course formula);
+
+44) https://fundusz.org
+45) Cf. https://ose.gov.pl
+
+44
+4) providing educational content for schools and supporting them in teaching digital
+skills, including Al-related competencies.
+
+Medium-term objectives (until 2027)
+
+1. Implementing a comprehensive educational curriculum on Al in primary and secondary
+schools, with support for customised education.
+
+Tools:
+
+1) ensuring proper and effective implementation of the core computer science
+curriculum, as well as its review in terms of provisions pertaining to the development
+of computational thinking, algorithmics and programming;
+
+2) developing curricula that take into account cross-sectional education on issues related
+to data processing, including practical approach;
+
+3) supporting the use of commercially available programming languages and libraries in
+primary and secondary schools;
+
+4) preparing teachers to introduce issues related to artificial intelligence in particular
+subjects or fields of education;
+
+2. Boosting the image of Poland as an attractive place to acquire qualifications and develop skills
+in the field of Al thanks to competitions at national and international level. Tools:
+
+1) organising or co-organising (e.g. within the framework of the Visegrad Group [V4] or
+the Three Seas Initiative) international Al Olympics at secondary school and university
+level;
+
+2) supporting students in joining existing competitions.
+Long-term goals
+
+1. Poland is the European leader in education in Al and other digital technologies at secondary
+school level;
+
+2. Polish students are at the forefront of educational research in Europe (measured by PISA and
+others).
+
+3. Poland co-organises mathematics and Al competitions at the European and global level.
+
+45
+Europe will not be made all at once, or according to a
+single plan.
+It will be built through concrete achievements
+
+which first create a de facto solidarity.
+Robert Schuman - Declaration of 9 May 1950
+
+46
+5. Al and international cooperation
+Artificial intelligence is increasingly visible in many debates on economic growth, both on national and
+international levels. In the coming years, the discussion on international principles for the
+development of this technology will take place in various international institutions, between countries
+and organisations. It is necessary for Poland to be an active and strong player on the international
+scene, with a clear position and even clearer priorities.
+
+Given the required technology base — innovative companies, subject matter experts, infrastructure
+with access to various databases, any significant Al development is not possible within a single country
+that is left to its own devices. To become globally competitive, Poland should cooperate as much as
+possible with other countries, and above all with the EU Member States, with the United States, Japan
+and the NATO countries. The impact of international activities should include:
+
+strengthening Poland’s position in the global and European arena;
+e increasing the productivity of Polish companies;
+e attracting international talent and innovative companies to Poland;
+
+e bringing international Al development centres, including digital innovation hubs and Al test
+centres co-funded by the EU to Poland;
+
+e better knowledge and innovation flows;
+
+e ensuring interoperability of Al-based solutions developed in Poland with widespread
+standards, norms and solutions.
+
+The transformational nature of artificial intelligence, which is associated with major economic and
+social changes around the world, constitutes an opportunity for Poland, Polish companies and Polish
+science to become known and make a name for themselves in this new, rapidly changing world.
+
+Strategic partners for Al and international cooperation:
+1) Council of Ministers Committee for Digital Affairs;
+2) Office of the Minister in charge of digital affairs and computerisation;
+3) Ministry of Education and Science;
+4) Ministry of Finance;
+5) Ministry of Funds and Regional Policy;
+6) Ministry of Climate and Environment;
+7) Ministry of National Defence;
+8) Ministry of Family and Social Policy;
+9) Ministry of Agriculture and Rural Development;
+
+10) Ministry of Economic Development, Labour and Technology;
+
+47
+11) Ministry of Foreign Affairs;
+
+12) Ministry of Health;
+
+13) Centre for eHealth;
+
+14) GovTech Polska Programme Team;
+
+15) Polish Investment and Trade Agency;
+
+16) Business & Science Poland;
+
+17) NCBIR — National Centre for Research and Development;
+
+18) Social Security Administration (ZUS);
+
+19) industry organisations for digital entrepreneurs and other sectors;
+
+20) think-tanks participating in international consultations and projects;
+
+21) universities and other centres carrying out research in the field of Al.
+
+Short-term objectives (until 2023)
+
+1. Creating an environment that fosters international investment in innovative ventures
+implemented in Poland. Tools:
+
+1)
+
+2)
+
+introducing tax reliefs and friendly taxation for entrepreneurs, including international
+entities building research centres in Poland and employing highly-skilled staff;
+
+simplifying the process of setting up and running an online business for every EU
+citizen (following the example of Estonia), regardless of nationality and place of
+residence (virtualisation of the workplace);
+
+developing an appropriate catalogue of incentives and procedural, financial and legal
+facilities to facilitate the implementation of innovative solutions in Poland and
+investments in the Polish Al ecosystem;
+
+Poland’s participation in new public-private partnership on Al, data and robotics set
+up by the EU under the new Horizon Europe programme;
+
+establishing a Digital Innovation Hub in Poland, specialised in trustworthy Al, which
+will collaborate with other DIH within the European DIH network, with ambitions to
+become a DIH on a European level, responding to the needs of our region.
+
+2. Strengthening cooperation within the EU, NATO, Three Seas Initiative, Visegrad 4, the Weimar
+Triangle and the United Kingdom, Switzerland and Norway.
+
+Tools:
+
+1)
+
+launching data trust initiatives in cooperation with international partners, where data
+from European public institutions or the private sector would be available on an equal
+and reciprocal basis to any European actor, to be operated as programmes and pilot
+projects;
+
+48
+implementing pilot programmes of model risk assessments for Al-enabled systems
+and model explanations addressed to users of these systems to inspire work on similar
+standards at EU level;
+
+establishing bilateral or multilateral exchange programmes for researchers and
+subject matter experts within these countries and other countries deemed
+appropriate;
+
+developing bilateral cooperation and building coalitions of like-minded countries with
+an agenda to design innovation-friendly legislation and mechanisms for joint project
+financing;
+
+enhancing cooperation between national regulatory bodies responsible for the
+development of Al and the exchange of best practices, identification of trends,
+cooperation in the field of standards and certification, active participation in the work
+of international organisations, aimed at working out a consensus concerning the
+ethical use of Al for civilian and security purposes.
+
+3. Increasing the international visibility of Polish research teams. Tools:
+
+1)
+
+2)
+
+introducing a requirement for a transnational element in selected publicly funded
+research projects;
+
+introducing incentives for undertaking international cooperation by Polish research
+teams.
+
+4. Identifying priority areas where Poland has a chance to be internationally competitive. Tools:
+
+1)
+
+2)
+
+3)
+
+consultations with the Polish enterprise and business circles aimed at understanding
+the needs of the labour market and the potential for Al applications;
+
+supporting Poland in developing and promoting a unified methodology for evaluating
+progress in implementing Al-based solutions in EU member states;
+
+establishing a platform in the form of a working group, bringing together stakeholders
+interested in ongoing cross-border cooperation on Al and consultations concerning
+planned regulations on that issue;
+
+Medium-term objectives (until 2027)
+
+1. Active cooperation with other countries on innovation, development of new technologies and
+artificial intelligence. Tools:
+
+1)
+
+2)
+
+meetings within the Visegrad 4 and the Weimar Triangle to develop a common agenda for
+the digital economy;
+
+developing the Digital Three Seas initiative in the area of research and implementation of
+Al for infrastructure, energy and cybersecurity, as well as services based on data
+processing and analysis, such as digital highways, loT or data trusts;
+
+developing bilateral cooperation and building coalitions of like-minded countries with a
+similar agenda;
+
+49
+4) establishing activities and projects concerning artificial intelligence as a subject for
+partnerships, joint action agendas and promotion at international cooperation level;
+
+5) undertaking consultations with foreign experts on business, scientific and legal activities
+aimed at developing the Polish economy and increasing its competitiveness in global
+markets;
+
+6) building permanent cooperation in the field of Al with the United States of America,
+Canada, Israel, Japan, North Korea, India, Singapore, Australia, Germany, France and the
+United Kingdom, joining the group of countries associated in the Digital Nations
+community.
+
+2. Coordinating Polish action plans within broader European and international initiatives. Tools:
+
+1) ensuring the highest possible participation of Polish entities in international
+programmes within the EU (including the Digital Europe and Horizon Europe
+programmes, the Innovation Council Initiative, as well as EU agendas addressing issues
+related to digital skills and education);
+
+2) actively participating in implementing and subsequently updating the Coordinated
+Plan on Artificial Intelligence, as well as other EU initiatives, including within
+international groups.
+
+3. Promoting EU international funding programmes for Al development. Tools:
+1) supporting companies and other entities in Poland in taking advantage of EU funds;
+
+2) taking advantage of the experience of Polish public administration and specialised
+institutions supporting the uptake of international funds earmarked as part of the
+previous financial perspective in the process of obtaining information on tenders,
+preparing applications and promoting existing support tools;
+
+3) reaching out to school and university students, doctoral candidates, trainees,
+teachers, trainers and youth workers, professional learners and adult education staff
+with the offer of educational programmes related to new technological developments,
+such as the new ERASMUS programme.
+
+4. Building the international image of Poland as an innovative country, open to new technologies.
+Tools:
+
+1) regular communication with other countries and promoting Polish activities in the
+field of artificial intelligence;
+
+2) organising international conferences on artificial intelligence;
+
+3) taking into account the issue of artificial intelligence development in Poland as part
+of the regular bilateral and multilateral consultations with interested countries;
+
+4) promoting thematic publications developed by Polish think-tanks and research
+institutes in the international press in order to promote Polish achievements in
+research and development of artificial intelligence.
+
+50
+Long-term goals
+
+1. Poland is positioned as a country with a significant role in the creation and broad application
+of Al-based solutions internationally.
+
+2. Poland has innovative Al centres of excellence and testing that collaborate internationally with
+public and private sectors.
+
+3. Poland has a long-term strategy for Al development, taking into account the situation and
+European and global regulations in this field.
+
+51
+In reality, what justifies the existence of any political
+
+activity is service to man.
+John Paul II during his address to the United Nations in 1979
+
+52
+6. Al and the public sector
+The public sector needs to play a key role in the development of artificial intelligence in Poland.
+Without its conscious and coordinated activity, the success of Polish companies, economy and science
+will be much harder to achieve.
+
+Firstly, Poland has the highest level of state ownership of enterprises among all OECD countries*®.
+Besides, the public sector has a direct and significant impact on the operation of the largest Polish
+strategic companies.
+
+On the other hand, based on the examples from countries such as the United States, France or Israel,
+we are aware that the right development and research policies are crucial for the emergence of
+innovative solutions and companies.
+
+What is more, the development of Al is determined by access to high-quality data — its absence makes
+it impossible to properly test the algorithms.
+
+The role of the public sector is to ensure that access to public data is as widespread as possible, to
+guarantee the highest possible quality and easy access for entities that develop products and services
+for the public. This will allow Polish companies to build new solutions, design better self-learning
+algorithms, find new application areas and offer new services.
+
+Al-based solutions can improve the efficiency of central government and local government bodies. The
+constantly improving technical capabilities makes process automation a more and more attractive
+avenue pursued by public administration. Thanks to advances in artificial intelligence, processes that
+had to be done by numerous clerks just a couple of years ago can be partially automated these days.
+At the same time, public administration should focus on setting standards for the implementation of
+Al-based solutions, in particular ensuring that Al ethics and the citizens’ rights are respected and that
+the quality of public services offered is increased.
+
+There is a need for further development of support programmes that help the public administration
+and the public sector in the implementation of Al-based solutions, such as the GovTech Polska, as well
+as projects established with the aim of developing data trusts, made available to the public under the
+Open Data programme on the data.gov.pl website.
+
+Further support is also needed in areas such as the creation of a decentralised repository for industrial
+and raw data (virtual data repositories, data trusts) and a programme to build a trusted public IT cloud
+for the public sector to hold and process data of Polish citizens using edge computing technology
+
+Strategic partners for Al and the public sector:
+1) Council of Ministers Committee for Digital Affairs;
+2) Office of the Minister in charge of digital affairs and computerisation;
+
+3) GovTech Polska Programme Team;
+
+46) https://www.oecd.org/daf/ca/corporategovernanceofstate-ownedenterprises/35678920.pdf
+
+53
+4) Ministry of Education and Science;
+
+5) Ministry of Finance;
+
+6) Ministry of Funds and Regional Policy;
+
+7) Ministry of Infrastructure;
+
+8) Ministry of National Defence;
+
+9) Ministry of Agriculture and Rural Development;
+
+10) Ministry of Economic Development, Labour and Technology;
+11) Ministry of Justice;
+
+12) Ministry of Interior and Administration;
+
+13) Ministry of Health;
+
+14) Centre for eHealth;
+
+15) Polish Development Fund;
+
+16) Statistics Poland;
+
+17) Social Security Administration (ZUS);
+
+18) Voivodeship authorities;
+
+19) Marshal's offices;
+
+20) mayors, district governors and village administrators;
+
+21) economic and public policy think-tanks.
+
+Short-term objectives (until 2023)
+
+1. Effective coordination of all work and activities related to the development of the Polish Al
+ecosystem. Tools:
+
+1) centralising strategic planning for Al development in Poland within the Committee of
+the Council of Ministers for Digital Affairs;
+
+2) involving non-governmental organisations, including organisations of entrepreneurs, in
+the process of creating a framework for the development of the Polish Al ecosystem;
+
+3) defining the Al Policy as a living document and introducing changes on an ongoing basis
+as part of the process of regular reviews carried out by the Council of Ministers, in
+particular in the part concerning the tools used for implementing the objectives of the
+document in question, as well as undertaking activities supporting the development of
+Al going beyond the Al Policy spectrum;
+
+4) interdisciplinary teams working on individual topics, involved in ongoing work on such
+issues as: Al and society, Al and the economy, Al and research policy or Al healthcare
+and senior care, trustworthy Al and practical challenges.
+
+54
+2. Developing rules ensuring transparency, auditing and accountability concerning the use of
+algorithms by public administration. Tools:
+
+1) introducing a mandatory ex-ante self-assessment that identifies issues, the
+distribution of responsibility for system operation, potential errors and mistakes
+(including algorithmic bias) and preventive measures taken;
+
+2) developing a model explanation for Al-assisted decision-making and the possibility of
+appealing such decisions, particularly if they have a direct impact on citizens’ rights
+and freedoms.
+
+3. Opening public data. Tools:
+
+1) increasing support for the Open Public Data Programme and the scope of data made
+available through the Open Data portal; making public data available is done in
+compliance with the law on the protection of classified information, business secrets,
+statistical confidentiality and other legally protected secrets, the protection of personal
+data and the free flow of and access to non-personal data;
+
+2) introducing a requirement to support the development/building of digital data
+repositories, an obligation to develop APIs (Application Programming Interfaces) and
+making the databases available as required by the Open Data Directive in operational
+programmes;
+
+3) organising open data competitions and hackathons rewarding the use and
+development of open-source solutions;
+
+4) taking advantage of existing data to develop complex information services based on
+processed data (for data not available in raw form, for example due to legal
+restrictions).
+
+4. Developing regulations aimed at obtaining public APIs from public and municipal enterprises
+with access to the widest possible catalogue of up-to-date data, respecting the principles of
+personal data protection and the priority of improving the quality of public services. Tools:
+
+1) developing the Open Data programme and the Central Administration Sandbox project
+in terms of technical and substantive support for these entities;
+
+2) implement relevant legislative changes in legal framework;
+
+5. Enhancing the ability of the state to use Al in emergency situations to forecast threats and
+support decision-making, as well as in situations requiring intervention or support from various
+government bodies at different levels.
+
+6. using Al-based solutions for continuous monitoring and improvement of the environment in
+Poland;
+
+7. Exploiting the research potential of medical data to improve citizens' health, taking into
+account the protection of privacy and personal data with or without the use of privacy
+protection techniques (e.g. anonymisation or pseudonymisation) if the explicit consent of the
+data subject is present. Tools:
+
+1) pilot programmes for storing anonymised medical data;
+
+55
+2)
+
+3)
+
+4)
+
+5)
+
+supporting the development of tools and solutions using medical data, in particular
+telemedicine and e-health solutions;
+
+analysing data on medical events (medical services), which can contribute to the
+effectiveness of prevention;
+
+optimising activities in the health sector based on the analysis of data such as, but not
+limited to, maps of needs, supply and demand for services, resource utilisation, data
+from digital services;
+
+sharing medical data for the development of more effective medicines and treatments.
+
+8. Increasing the number of Al procurements in the public sector, including central and local
+government, as well as state-owned companies and municipal companies run by local
+government bodies, thanks to the development of tools developed by the GovTech Polska
+Programme. Tools:
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+7)
+
+promoting the learning by doing approach by organising pilot projects and
+implementation programmes concerning Al applications in public institutions, using the
+experience gained during the organisation of GovTech Polska competitions*”);
+
+organising pilot projects and implementation programmes on risk assessments and
+model-based explanations for citizens exposed to Al-based systems;
+
+promoting the use of non-conventional (other than tender) public procurement modes,
+more conducive to procuring innovative solutions in the public sector;
+
+training staff of public administration bodies in the use of public procurement
+procedures enabling them to achieve the best results in the procurement of innovative
+solutions and in counteracting discrimination;
+
+preparing and frequently updating a catalogue of best practices for contracting
+authorities, including reduction of bureaucracy and prerequisites, methods of
+independent auditing and regular risk assessment, innovative and agile
+implementation methods, data sharing, promoting shared services and modern
+intellectual property management;
+
+conducting regular workshops and conferences on public procurement of Al-based
+solutions;
+
+creating a set of networking tools to facilitate the participation of private entities, in
+particular SMEs, in public procurement contracts for new technologies.
+
+9. Take advantage of Poland's role as the host of the 2020 UN Internet Governance Forum
+organised in Katowice to exchange experiences and promote Poland in the area of modern
+technologies and artificial intelligence. Tools:
+
+1)
+
+2)
+
+covering the subject of Al during the “zero day” organised on the day before the main
+event;
+
+organising discussion panels devoted to Al;
+
+47. https://konkursy.govtech.gov.pl
+
+56
+3)
+
+preparing and launching accompanying promotional campaigns highlighting Poland's
+potential as a country where modern technological solutions, including Al, are
+developed by the public and private sectors.
+
+Medium-term objectives (until 2027)
+
+1.
+
+2.
+
+Public data is available and widely used. Tools:
+
+1)
+
+2)
+
+3)
+
+4)
+
+all open data under the Public Information Act is directly accessible (downloadable as
+a file or via APIs); sharing public data respects the laws on protection of classified
+information, business secrets, protection of personal data and free movement of and
+access to non-personal data;
+
+implementing electronic document management systems using Al-based components
+in public institutions, for sharing selected information based on sensitive data sets held
+by the administration, with due respect for regulations on the protection of classified
+information;
+
+boosting competences and digital skills of public sector staffers , including promoting
+modern, agile working methodologies and tools;
+
+strengthening the role of Statistics Poland as an aggregator of real-time statistical data
+and provider of statistical expertise to public sector bodies.
+
+Poland is one of the most active countries in developing ethical use of data according to the
+concept of trustworthy Al.”®) Tools:
+
+1) developing a dynamic code of ethics for Al by the Polish government, the Virtual
+Research Institute and Al experts, taking into account Article 30 of the Polish
+Constitution and the EU Charter of Fundamental Rights, as well as principles such
+as human-centric Al, reliability (assuming, among others, the prevention of errors
+such as algorithmic bias) transparency and explainability;
+
+2) Poland’s activity in the UNESCO Global Ethics Code for Al initiative*®) initiative;
+
+3) Poland's continued participation in the OECD's Stewardship of Trustworthy Al
+initiative initiative;
+
+4) Poland’s continued activity in the Council of Europe in the initiative to develop
+
+recommendations for Al with regard to the protection of human rights, the rule of
+law and democracy.
+
+Long-term goals
+
+1.
+
+Polish public data is accessible and easy to use for citizens, researchers and industry. The data
+is adapted to machine analysis and accessible via modern APIs. The release of public data
+
+48) https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai
+
+49) https://en.unesco.org/courier/2018-3/towards-global-code-ethics-artificial-intelligence-research
+
+5°) https://www.oecd.org/going-digital/ai/principles/
+
+57
+respects the laws on the protection of classified information, business secrets, the protection
+of personal data and the free movement of and access to non-personal data.
+
+The rights and interests of Polish citizens whose data may be used by researchers or industry
+have been secured with appropriate guarantees (including but not limited to the protection of
+their privacy).
+
+Transparent mechanisms for sharing non-public data are developed.
+Polish diplomacy promotes Polish Al businesses and scientific centres.
+
+Thanks to the work of Polish specialists and Polish international activities, Poles are among the
+leading authors cited in Al publications.
+
+58
+Conclusions and next steps
+
+The mission of Poland's strategic policy in the field of artificial intelligence is to use Al research and
+development to increase innovation and productivity of data-driven economy, as well as to support
+citizens in the processes of transforming their work environment and building their competencies,
+taking into account the protection of human dignity and ensuring the conditions of fair competition.
+
+Poland has the potential for a dynamic transition from the role of a challenger*” to an internationally
+recognised leader in artificial intelligence with the Invented in Poland brand.
+
+Only by coordinating the activities of all participants of the Polish Al ecosystem will Polish society and
+economy be able to take advantage of the opportunities provided by the current technological
+revolution brought about by Al. In view of the above, we need cooperation in the following areas:
+
+1)
+
+9)
+
+building a culture of cooperation between the public and private sectors in the area of
+innovation;
+
+ensuring conditions conducive to the development of citizens' creativity by strengthening the
+labour market;
+
+supporting and promoting Al-based solutions developed by Polish entrepreneurs;
+
+developing an effective and agile central coordination mechanism for public initiatives on Al
+and modern technologies;
+
+supporting cooperation between academic centres and business;
+
+developing analytical and digital skills, including programming skills, at all stages of education,
+establishing rules for the organisation of classes and apprenticeships relevant to the level of
+education;
+
+developing lifelong learning, establishment of a staff development/retraining programme and
+encouragement of informed career choices, in line with the Integrated Skills System;
+
+supporting cooperation opportunities among participants in the Polish Al ecosystem (e.g. joint
+R&D, experience sharing, cluster solutions);
+
+promoting innovative technological solutions among entrepreneurs in order to raise the level
+of development and to establish a dialogue with other EU economies;
+
+10) active cooperation in the European field in the development of trustworthy Al;
+
+11) building trust in Al by supporting practical solutions to increase accountability and
+
+transparency of these systems (e.g., through dedicated research grants, pilot implementations
+and soft standards);
+
+12) implementing practical mechanisms in the public sector to protect individuals against
+
+violations of their rights and freedoms (e.g. model implementation of the right to an
+explanation) and promoting similar implementation in the private sector;
+
+51) Cf. https://www.mckinsey.com/pl/our-insights/polska-jako-cyfrowy-challenger
+
+59
+13) supporting projects in the field of e-Health, including activities aimed at the interoperability of
+existing systems, with a particular focus on projects aimed at the care for the elderly and
+projects aimed at preventing and combating epidemic outbreaks;
+
+14) supporting educational and cultural projects, with a special focus on the reliability of
+knowledge sources, scepticism, counteracting the spread of violence, etc.;
+
+15) supporting cybersecurity and projects aimed at combating disinformation, including building
+a culture based on accountability and the ability to explain the use of algorithms;
+
+16) supporting development of an API standard for accessing public data and a standard for
+sharing non-public data;
+
+17) promoting open interoperability standards, including mutual recognition of certificates and
+compliance protocols.
+
+By design, this Al policy is a document that will need to be subject to regular evaluations to reflect the
+ever-changing nature of the high-tech sector and Al in particular. Thus, coming up with new objectives,
+refining activities, evaluating and changing tools and expanding the catalogue of partners will be
+integral parts of the implementation of the Al Policy. This approach is consistent with the best business
+practices and the interests of the state in a situation where the regulated sector is constantly changing.
+Defining the objectives, measures, additional actions and scope for adapting the document to the
+changing reality, as well as other ongoing adjustments in the area of Al Policy implementation will be
+the task of the Al Policy Task Force at the Committee of the Council of Ministers for Digital Affairs
+(hereinafter referred to as the ”CCMDA”), which will recommend action plans, priority projects and
+schedules.
+
+Coordinating these changes and the overall implementation of the activities described in this
+document will be carried out by the minister in charge of computerisation. The current plans envision
+supporting the CCMDA in the future, whose tasks will be expanded by the Prime Minister by amending
+or issuing a new Ordinance on the Committee of the Council of Ministers for Digital Affairs, including
+in particular new competences resulting from this Al Policy.
+
+What is more, if achieving the objectives resulting from the Al Policy will require extending or changing
+the competencies of other institutions or bodies, as well as any other legislative solutions, they will be
+implemented by making appropriate adjustments to the currently binding legal acts or programme
+documents.
+
+Operational aspects of Al Policy implementation will be the responsibility of the Al Policy Task Force,
+which is planned to be established at the CCMDA in accordance with Section 17 of the Ordinance No.
+48 of the Prime Minister of 12 April 2016 on the Committee of the Council of Ministers for Digital
+Affairs (Monitor Polski of 2018, item 705, Monitor Polski of 2020, item 226). This will at the same time
+ensure coherence across the public sector and continuity of implementation activities. Planning within
+the Al Policy will be based on implementation plans presented annually to the minister in charge of
+computerisation by each of the responsible ministers. These will include a list of actions, objectives
+and planned costs together with funding sources. These plans will be then reviewed by the Al Policy
+Task Force. Ministers will also include specific actions they will take to ensure that their aid, grant and
+subsidy programmes, procurement and other funding tools reward the use of Al by beneficiaries and
+
+60
+contractors. When submitting their plans, the ministers will take into account the activities of their
+own departments and the institutions they supervise.
+
+What is more, all citizens, all companies, public and private schools and universities, non-governmental
+organisations and all other participants of public life will also determine the directions of development
+of Polish Al ona daily basis thanks to their actions, while the role of public institutions will be to support
+this process. This cannot be done in any other way than through continuous consultation with
+domestic and international entities and involving them in the continuous process of improving the
+Polish Al ecosystem of which they are a part.
+
+61
+Appendix no. 1: Definition of Al
+To date, no legal definition of artificial intelligence has been developed in national legislation
+
+framework and international conventions; however, some attempts are made to approach this
+phenomenon and various Al technologies from a descriptive point of view.
+
+Artificial intelligence or Al for short>”) is thus defined as a field of study including neural networks,
+robotics and development of intelligent behaviour models, as well as software simulating these
+behaviours, also including machine learning, deep learning and reinforcement learning.
+
+Thanks to modelling knowledge and data, as well as thanks to the development of algorithms and
+growing computational power, the current state of technology enables us to build relatively
+automated systems for collecting, processing and analysing data, which offers autonomous
+improvement of the system or prediction of behaviour and actions based on the analysis of collected
+data and correlations between them, with the possibility of influencing the external environment and
+interacting with it through sensors and actuators. These interactions can occur mechanistically or with
+human intervention throughout the life cycle of an artificial intelligence from its inception, through
+development, deployment, application, up to deactivation and disposal.
+
+Consensus on the definition of Al
+
+There is an international consensus to define artificial intelligence based on the system model
+approach, based on technical development of the intelligent agent model. This approach amounts to
+describing artificial intelligence as an Al System. This Al Policy is based on the adoption of Al System as
+a central concept to describe Al from a technical point of view. Thus, the Al Policy adopts as its own
+the definition of Al System developed within the OECD by the Al Group of Expert.
+
+An Al system according to OECD™) is a system based on the concept of a machine that can influence
+its environment by making recommendations, predictions or decisions based on a pre-set set of goals.
+It does this by using input, machine or human data to:
+
+e perceive and analyse real and virtual environments;
+e summarise the perceptions and analyses with models — manually or automatically;
+
+e use model interpretation to formulate outcome options.
+
+In this approach, an Al system comprises three main components:
+e sensors;
+e operational logic (models of algorithms);
+
+e actuators (executive system);
+Sensors collect raw data from the environment and actuators take action to change its state. The key
+strength of an artificial intelligence system can be found in its operational logic (algorithm models)
+
+52) Barttomiej Michatowski, Internet of Things (loT) i Artificial Intelligence (Al) w Polsce. Jak wykorzystaé
+rewolucje technologiczng Internetu rzeczy i sztucznej inteligencji w rozwoju Polski, Instytut Sobieskiego,
+Warsaw, 2018.
+
+53) http://www.oecd.org/going-digital/ai
+
+62
+which, for a given set of objectives and based on sensor input, extracts output data for the actuators
+— recommendations, predictions or decisions that can affect the environment.
+
+Model (e.g., rules or analytical function) -a
+representation interpretable or not by humans
+
+Figure 3. Al system according to the OECD. Source: AIGO study — OECD Digital Economy Papers November 2019
+No. 291%)
+
+The Al system should follow the ethical principles contained in the guidelines for trustworthy Al, such
+
+as:>))
+
+human agency and oversight;
+
+technical robustness and safety;
+
+privacy and data governance;
+
+diversity, non-discrimination and fairness;
+
+environmental and societal well-being;
+
+54) Scoping the OECD Al Principles Deliberations of the Expert Group on artificial Intelligence at the OECD (AIGO)
+https://www.oecd-ilibrary.org/docserver/d62f618a-en.pdf?expires=1603987342&id=id&accname=
+guest&checksum=28E90DC24CF15EF5DCB93E1076E7EDO08.
+
+55) Ethics Guidelines for Trustworthy Artificial Intelligence developed by the independent High Level Expert
+Group on Artificial Intelligence established by the European Commission in June 2018:
+https://ec.europa.eu/digital-single-market/en/high-level-expert-group-artificial-intelligence .
+
+63
+transparency;
+
+accountability.
+
+64
+Appendix no. 2: Polish Al ecosystem
+
+The Al ecosystem is a horizontal environment designed to initiate and support activities undertaken
+by numerous stakeholders to develop Polish innovation in the field of Al and to position Polish
+intellectual property at the highest possible levels of the global value chain related to data processing,
+as well as to minimise potential risks related to the ongoing global competition in the field of Al and
+the ongoing transformation of the economy and society.
+
+The Al ecosystem will engage citizens, entrepreneurs, academia, cultural institutions and archives, and
+government, providing a basis for the systematic growth of Al innovation, with attention to
+cybersecurity, fair competition, as well as ethics and the paradigm of human individual sovereignty
+over Al in respect of social solidarity and sustainable development.
+
+Actions taken within the Al ecosystem are supposed to:
+
+support the emergence of Polish businesses developing Al-based solutions;
+
+© promote the use of Al-based solutions in Polish economy;
+
+e support the exports of Polish Al companies;
+
+e foster learning, training skills and development of competencies in the field of Al;
+e support research, in particular interdisciplinary research in the field of Al;
+
+¢ promote the participation of Polish scientists and entrepreneurs in international bodies
+focusing on Al and its development.
+
+For this to be possible, developing a coordinated state policy in the field of Al and organising a
+management centre for the Polish Al ecosystem seem to be required.
+
+The Polish Al ecosystem also focuses on the international and legal frameworks, as well as emerging
+technical and organisational standards, defining actions of people functioning in society and the
+environment based on ethical principles for trustworthy Al. Together, these dimensions constitute a
+dynamic framework for the ecosystem, stabilising its operation on the one hand and reshaping it on
+the other, as the Al challenge has only just started — both in socio-political research and in the
+solutions included in policies and global regulations.
+
+The strategic factors for building the potential of Polish Al include:
+e data;
+e knowledge, competences, skills and qualifications;
+e funding;
+e = Infrastructure.
+
+The factors listed above represent the necessary areas for improvement, where the organised and
+coordinated management will lead to the achievement of Al Policy objectives.
+
+65
+Al Policy Coordination
+
+The minister in charge of computerisation is responsible for the coordination of the implementation
+of the Al Policy. A key role in monitoring and supporting the coordination of Al Policy implementation
+will be played by the Al Policy Task Force, which is to be established at the CCMDA. The Task Force will
+be appointed by the CCMDA upon request of the minister in charge of computerisation. The Al Policy
+Task Force will provide draft information on the implementation of Al Policy activities for a given year
+to the CCMDA. This draft, after consideration by the CCMDA, will be presented to the Council of
+Ministers by the minister responsible for computerisation.
+
+Al research and science
+s, NCBIR, NASK, National Science Centre, Virtual
+Research Institute
+
+Al entrepreneurs
+SMEs, large companies, international investors
+
+Data aa SS Research
+Data management and policy
+
+; Accessible data science courses
+Open public data Implementation PhDs
+Urban data as . AIPhD school
+Medical date Minister in charge of Alin ministry-sponsored courses
+Energy sector data . A Innovation Academy
+Environmental data computerization Polish Quantum Computer
+Industrial data with the help of the CCMDA Alchallenge platform
+
+Data trusts
+Access and data haew and the Al Policy Task Force Infrastructure
+- Trusted data spaces
+Faas A Trusted Computing Cloud
+i coordinating the Al Polic
+Al support policy are is on -Y Edge Computing
+Corporate VC for state-owned] with respect forthe Broadband Internet access
+
+companies principles of trustworthy Al Regulatory sandboxes and
+VC funds testbeds
+
+State budget Smart grids
+
+EU / eDIH budget eset National Education Network
+
+Private investments CyberSec Al Centre
+
+Funding
+
+oc
+=
+=
+c
+2
+=
+@
+=
+a
+=
+o
+2
+o
+(=)
+=
+3
+a
+
+uolyeonp3 IV
+
+.
+S
+P=
+LS)
+©
+wn
+a
+2
+=}
+a
+
+GovTech Polska, Future Industry Platform
+Foundation, National Data Operators, Polish
+Investment and Trade Agency
+
+Al customers and users
+State-owned companies, Polish Armed Forces, Polish Government and government agencies, local governments, healthcare, business, schools,
+
+Al Developers, Poles, social and professional organisations
+
+Figure 4. Polish Al ecosystem. Source: own compilation
+
+In order to effectively monitor, implement and coordinate the Al Policy, there are plans to establish
+the:
+
+e Al Policy Task Force — an entity operating at the CCMDA, chaired by the Prime Minister's
+Plenipotentiary for GovTech. The Task Force will be tasked with monitoring and coordinating
+public institution activities within the scope of the implementation of the Al Policy, in
+cooperation with the bodies specified below.
+
+e Al Contact Point — appointed by the minister in charge of computerisation at Centre for the
+Operational Programme Digital Poland in order to support and coordinate stakeholders of
+financial assistance programmes based on the central EU budget such as Digital Europe or
+Horizon Europe;
+
+e Al Observatory for the Labour Market — appointed by the minister in charge of
+computerisation to monitor and study the impact of Al on the labour market, in cooperation
+with the minister in charge of labour;
+
+66
+Observatory for International Artificial Intelligence and Digital Transformation Policy —
+appointed by the minister in charge of computerisation to monitor Al policies and regulations
+enacted in other countries, formulate recommendations for international initiatives in the
+field of Al, monitor global trends in Al development, in cooperation with the Ministry of
+Foreign Affairs;
+
+Al Council - appointed on an ad hoc basis by the minister in charge of computerisation, in order
+to support the identification of challenges for scientific research and flagship projects, define
+standards for Al use in Poland and coordinate arrangements for public aid programmes, as
+defined by NCBIR, National Science Centre, Horizon Europe and other available sources, as
+well as to allocate state budget funds or issue recommendations concerning the budgets of
+local government units. The list of members of the Al Council will include appointed
+representatives of academia, business, NGOs and public administration. The Al Council will
+consult its recommendations with the Innovation Council and the Digital Affairs Council;
+
+Al Legislative Team — appointed by the minister in charge of computerisation to address legal
+and ethical challenges supporting the implementation of the Al Policy.
+
+The Al Policy Task Force will propose the lists of members of the aforementioned bodies, their mode
+of operation, competences and sources of funding for their activities, suggesting necessary changes as
+required, including staffing changes or clarification of the scope of activity of each body and their
+
+respective action plans within the scope defined in the Al Policy.
+
+The Al Policy will focus on the development of the Al ecosystem, keeping in mind the following actions
+
+for each of the four dimensions of the Polish Al ecosystem framework:
+
+Table 2. Framework for the Polish Al ecosystem
+
+Framework for the Polish Al
+ecosystem
+
+Dimension
+
+Policy orientations
+
+international
+
+European and supra-European cooperation
+virtualisation of work and mobility
+
+territorial virtualisation and fair competition
+preventing monopolisation of access to data and
+closing value chains
+
+promoting equal and decentralised cooperation
+between research and development centres
+protection of talent
+
+exports of Al services
+
+organisation of cross-border Al testbeds
+coordination of public aid and foreign investment
+programmes
+
+ethical
+
+human dignity and human autonomy support in the
+face of digital machine automation
+
+Global Code of Al Ethics
+
+trustworthy Al
+
+67
+
+legal
+
+legal definition of Al
+
+counteracting the granting of legal personality to Als
+ownership and transferability of personal data
+protection of business secrets and lack of ownership
+of industrial data
+
+intellectual property
+
+damage liability for Al developers on the basis of the
+diligence principle, for Al operators on the basis of the
+risk principle; distinction between the liability of end
+users and that of Al operators;
+
+support for procurement specifications for Al-based
+solutions and facilitating the procurement process
+
+technical and organisational
+standards
+
+technical standards
+
+mutual recognition of certificates and certificates of
+conformity
+
+rules for interoperability
+
+data management standards
+
+68
+
