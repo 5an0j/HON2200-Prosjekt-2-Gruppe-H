@@ -3,12 +3,12 @@ import pandas as pd
 import string
 
 files = {
-    'China': 'txt/China.txt',
-    'EU': 'txt/EU.txt',
+    'China (2.11)': 'txt/China.txt',
+    'Poland (7.40)': 'txt/Poland.txt',
+    'USA (7.85)': 'txt/USA.txt',
+    'EU (7.93)': 'txt/EU.txt'
 #    'Norway': 'txt/Norway.txt',
-    'USA': 'txt/USA.txt',
 #    'Brazil': 'txt/Brazil_summary.txt',
-    'Poland': 'txt/Poland.txt'
 }
 
 df_keywords = pd.read_excel('keywords.xlsx')
@@ -39,32 +39,38 @@ for region, filename in files.items():
         results[region] = count_keywords(text, keywords_to_category)
 
 plt.rcParams.update({'font.size': 16})
-palette = ['#332288', '#88CCEE', '#44AA99', '#117733', '#DDCC77', '#CC6677', '#AA4499']
+palette1 = [ "#7FA29A", "#7E87B4", "#9D5C67" ]
+palette2 = [ "#BDA463", "#B47963", "#A6695C", "#4D7856" ]
 
 df = pd.DataFrame(results).T.round(2)
+df = df / (df.max()) # normalize
 
-ax = df.drop(columns=['Utvikling', 'Økonomi/konkurranseevne']).plot(kind='bar', width=0.8, figsize=(10, 8), color=palette)
-plt.title('Nøkkelordfordelinger i nasjonale og regionale KI-strategier')
-plt.ylabel('Frekvens per 1000 ord')
+
+# ax = df.drop(columns=['Utvikling', 'Økonomi/konkurranseevne']).plot(kind='bar', width=0.8, figsize=(10, 8), color=palette)
+# plt.title('Nøkkelordfordelinger i nasjonale og regionale KI-strategier')
+# plt.ylabel('Frekvens per 1000 ord')
+# plt.xticks(rotation=0)
+# plt.legend(fontsize=12)
+# plt.tight_layout()
+# plt.show()
+
+
+ax = df[['Demokrati/rettigheter', 'Etikk/ansvar', 'Overvåkning/kontroll']].plot(kind='bar', width=0.8, figsize=(10, 8), color=palette1)
+plt.title('Demokratisk vokabular i KI-strategier')
+plt.ylabel('Normalisert frekvens per 1000 ord')
 plt.xticks(rotation=0)
-plt.legend(fontsize=12)
+plt.legend(fontsize=12, loc='lower right')
 plt.tight_layout()
 plt.show()
 
-df[['Utvikling']].plot(kind='bar', width=0.6, figsize=(10, 8), color='#6699CC')
-plt.title('Nøkkelordfordelinger i nasjonale og regionale KI-strategier')
-plt.ylabel('Frekvens per 1000 ord')
+
+df[['Utvikling', 'Økonomi/konkurranseevne', 'Implementering/utrulling', 'Bærekraft']].plot(kind='bar', width=0.6, figsize=(10, 8), color=palette2)
+plt.title('Vokabular tilknyttet risikovillighet i KI-strategier')
+plt.ylabel('Normalisert frekvens per 1000 ord')
 plt.xticks(rotation=0)
-plt.legend()
+plt.legend(fontsize=12, loc='lower left')
 plt.tight_layout()
 plt.show()
 
-df[['Økonomi/konkurranseevne']].plot(kind='bar', width=0.6, figsize=(10, 8), color='#749d5c')
-plt.title('Nøkkelordfordelinger i nasjonale og regionale KI-strategier')
-plt.ylabel('Frekvens per 1000 ord')
-plt.xticks(rotation=0)
-plt.legend()
-plt.tight_layout()
-plt.show()
 
 df.to_csv('keyword_results.csv')
