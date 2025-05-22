@@ -1,6 +1,6 @@
 # HON2200-Prosjekt-2-Gruppe-H
 
-This project provides code for doing keyword analysis of pdfs. Our purpose is to analyse AI-strategies, but the code is designed to be flexible and can be easily modified. Our findings and accompanying analysis is detailed in our report.
+This project provides code for doing keyword analysis of pdfs. Our purpose is to analyse AI-strategies, but the code is designed to be flexible and can be easily modified. Our findings and accompanying analysis is detailed in our report "Demokrati og risikovillighet i nasjonale KI-strategier: En tekstanalytisk sammenlikning på tvers av regimetyper".
 
 ## Structure
 
@@ -45,7 +45,7 @@ Stored embedding data.
 ### `Report/`
 Contains the written report and supplementary material.
 
-#### `Report`
+#### `Demokrati_og_risikovillighet_i_nasjonale_KI-strategier.pdf`
 The report in pdf format.
 
 - **`Figures/`**
