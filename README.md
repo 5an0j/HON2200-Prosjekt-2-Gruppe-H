@@ -1,12 +1,11 @@
 # HON2200-Prosjekt-2-Gruppe-H
 
-This project provides code for doing keyword analysis of pdfs. Our purpose is to analyse AI-strategies, but the code is designed to be flexible and can be easily modified. Our findings and accompanying analysis is detailed in our report at XXX.
+This project provides code for doing keyword analysis of pdfs. Our purpose is to analyse AI-strategies, but the code is designed to be flexible and can be easily modified. Our findings and accompanying analysis is detailed in our report.
 
 ## Structure
 
 #### `requirements.txt`
 Contains all requirements to run the programs.
-
 
 ### `Code/`
 Contains code for the analysis.
@@ -20,6 +19,8 @@ Notebook for converting pdf's to txt using OCR (tesseract).
 - **`txt/`**
   - Contains the converted txt-files by OCR.
 
+#### `democracy_index.xlsx`
+Excel sheet with Economist democracy index from UN-website for calculating mean democracy index of EU/EEA.
 
 #### `keywords.xlsx`
 List of keywords in excel table.
@@ -31,7 +32,10 @@ Keyword analysis.
 Module for embedding analysis inspired by Toubia et al., 2021.
 
 #### `embedding.ipynb`
-Embedding analysis for sylistic comparisons.
+Embedding analysis for sylistic comparisons and clustering.
+
+#### `embedding.pkl`
+Pickle file with embeddings.
 
 #### `embeddings.csv`
 Stored embedding data.
@@ -41,11 +45,11 @@ Stored embedding data.
 ### `Report/`
 Contains the written report and supplementary material.
 
-#### `Report title`
-The report in pdf format
+#### `Report`
+The report in pdf format.
 
 - **`Figures/`**
-  - Contains all figures used in the report.
+  - Contains all figures used in the report and some tables with results.
 
 - **`Additional_plots/`**
   - Contains additonal figures and plots not included in the report.

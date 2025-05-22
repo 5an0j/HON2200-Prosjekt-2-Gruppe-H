@@ -3,10 +3,10 @@ import pandas as pd
 import string
 
 files = {
-    'China (3.10)': 'txt/China.txt',
-    'Poland (6.85)': 'txt/Poland.txt',
+    'Kina (3.10)': 'txt/China.txt',
+    'Polen (6.85)': 'txt/Poland.txt',
     'USA (7.85)': 'txt/USA.txt',
-    'EU/EEA (8.00)': 'txt/EU.txt'
+    'EU/EØS (8.00)': 'txt/EU.txt'
 #    'Norway': 'txt/Norway.txt',
 #    'Brazil': 'txt/Brazil_summary.txt',
 }
@@ -57,7 +57,7 @@ df = df / (df.max()) # normalize
 
 ax = df[['Demokrati/rettigheter', 'Etikk/ansvar', 'Overvåkning/kontroll']].plot(kind='bar', width=0.8, figsize=(10, 8), color=palette1)
 plt.title('Demokratisk vokabular i KI-strategier')
-plt.ylabel('Normalisert frekvens per 1000 ord')
+plt.ylabel('Frekvens per 1000 ord (normalisert)')
 plt.xticks(rotation=0)
 plt.legend(fontsize=12, loc='lower right')
 plt.tight_layout()
@@ -66,7 +66,7 @@ plt.show()
 
 df[['Utvikling', 'Økonomi/konkurranseevne', 'Implementering/utrulling', 'Bærekraft']].plot(kind='bar', width=0.6, figsize=(10, 8), color=palette2)
 plt.title('Vokabular tilknyttet risikovillighet i KI-strategier')
-plt.ylabel('Normalisert frekvens per 1000 ord')
+plt.ylabel('Frekvens per 1000 ord (normalisert)')
 plt.xticks(rotation=0)
 plt.legend(fontsize=12, loc='lower left')
 plt.tight_layout()
