@@ -55,7 +55,7 @@ The report in pdf format.
   - Contains additonal figures and plots not included in the report.
 
 
-## Data
+## Dataset
 
 The data is sourced from OECD:
 
@@ -67,3 +67,5 @@ The data is sourced from OECD:
 
 - OECD. (2022, Januar 13). AI in the United States. Hentet fra OECD.AI: https://oecd.ai/en/dashboards/countries/UnitedStates
 
+
+The project is based on example 6, alternative 2 in the description at https://henriasv.github.io/hon2200-v25/oppgaver/prosjekt_2.html.
