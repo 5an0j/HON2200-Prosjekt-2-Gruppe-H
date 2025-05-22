@@ -3,10 +3,10 @@ import pandas as pd
 import string
 
 files = {
-    'China (2.11)': 'txt/China.txt',
-    'Poland (7.40)': 'txt/Poland.txt',
+    'China (3.10)': 'txt/China.txt',
+    'Poland (6.85)': 'txt/Poland.txt',
     'USA (7.85)': 'txt/USA.txt',
-    'EU (7.93)': 'txt/EU.txt'
+    'EU/EEA (8.00)': 'txt/EU.txt'
 #    'Norway': 'txt/Norway.txt',
 #    'Brazil': 'txt/Brazil_summary.txt',
 }
@@ -39,8 +39,8 @@ for region, filename in files.items():
         results[region] = count_keywords(text, keywords_to_category)
 
 plt.rcParams.update({'font.size': 16})
-palette1 = [ "#7FA29A", "#7E87B4", "#9D5C67" ]
-palette2 = [ "#BDA463", "#B47963", "#A6695C", "#4D7856" ]
+palette1 = [ "#299C81", "#6F7BB7", "#9D5C67" ]
+palette2 = [ "#B69339", "#B25C3D", "#A6695C", "#4D7856" ]
 
 df = pd.DataFrame(results).T.round(2)
 df = df / (df.max()) # normalize
