@@ -54,3 +54,16 @@ The report in pdf format.
 - **`Additional_plots/`**
   - Contains additonal figures and plots not included in the report.
 
+
+## Data
+
+The data is sourced from OECD:
+
+- OECD. (2025). AI in China. Hentet Mai 2025 fra OECD.AI: https://oecd.ai/en/dashboards/countries/China
+
+- OECD. (2025). AI in Poland. Hentet Mai 2025 fra OECD.AI: https://oecd.ai/en/dashboards/countries/Poland
+
+- OECD. (2025). AI in the European Union. Hentet Mai 2025 fra OECD.AI: https://oecd.ai/en/dashboards/countries/EuropeanUnion
+
+- OECD. (2022, Januar 13). AI in the United States. Hentet fra OECD.AI: https://oecd.ai/en/dashboards/countries/UnitedStates
+
